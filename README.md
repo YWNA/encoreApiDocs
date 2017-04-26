@@ -1,3 +1,4 @@
-# My Awesome API
+# Encore APP Api
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+encore app 后台接口服务器开发设计时的内部开发使用文档
+
