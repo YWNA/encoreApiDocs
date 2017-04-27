@@ -23,7 +23,7 @@
 6. 时间戳，时间戳的精细度到秒。
 
 7. sign，使用hash-sha256获取到如下格式字符串的哈希散列值，/版本号/接口地址及其参数/app\__key/_时间戳app\_key\_value  
-   例如：/V001/magazine/newest/_app\_key123_/1492850540a_pp_\_key\_value456。
+   例如：/V001/magazine/newest/_app\_key123_/1492850540a_pp_\_key\_value456。则，sign的值为上述字符串的hash-sha256的哈希散列值。
 
 
 
