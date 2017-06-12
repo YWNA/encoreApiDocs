@@ -10,28 +10,28 @@
 * 接口返回：
 
   * code值为空时  
-    `{`
+    \`\`\`{
 
-    `    "code": 1,`
+        "code": 1,
 
-    `    "data": "短信息发送成功"`
+        "data": "短信息发送成功"
 
-    `}`
+    }\`\`\`
 
   * code值不为空时  
     `{`
 
-    `    "code": 1,`
+    `"code": 1,`
 
-    `    "msg": "注册成功",`
+    `"msg": "注册成功",`
 
-    `    "data": {`
+    `"data": {`
 
-    `        "app_key": "aiqvyBFJOPU1",`
+    `"app_key": "aiqvyBFJOPU1",`
 
-    `        "app_value": "8be733bb6dad5c489c3fe475c437d627d2acc8f8"`
+    `"app_value": "8be733bb6dad5c489c3fe475c437d627d2acc8f8"`
 
-    `    }`
+    `}`
 
     `}`
 
