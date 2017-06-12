@@ -5,17 +5,17 @@
   2.password：用户的密码
 
 * 接口返回：  
-  `{  `
+  `{`
 
-  `    "code": 1,  `
+  `"code": 1,`
 
-  `    "data": {  `
+  `"data": {`
 
-  `        "app_key": "dhoprtLNPST5",  `
+  `"app_key": "dhoprtLNPST5",`
 
-  `        "app_value": "02ba13b5334d95da604eb9120b7b1f6fcd0d9ef1"  `
+  `"app_value": "02ba13b5334d95da604eb9120b7b1f6fcd0d9ef1"`
 
-  `    }  `
+  `}`
 
   `}`
 
