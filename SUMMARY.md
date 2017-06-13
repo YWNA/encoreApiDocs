@@ -8,8 +8,6 @@
 * [注册](zhu-ce.md)
 * [账户](zhang-hu.md)
   * [头像](zhang-hu/tou-xiang.md)
-    * [Token](zhang-hu/tou-xiang/token.md)
-    * [更新头像](zhang-hu/tou-xiang/geng-xin-tou-xiang.md)
   * [基本用户信息](zhang-hu/ji-ben-yong-hu-xin-xi.md)
 * [首页](shou-ye.md)
 * [资讯](zi-xun.md)
