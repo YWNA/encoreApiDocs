@@ -11,7 +11,7 @@
   * [基本用户信息](zhang-hu/ji-ben-yong-hu-xin-xi.md)
 * [栏目-速报](shou-ye.md)
   * [Banner](shou-ye/banner.md)
-  * 速报类别
+  * [速报类别](shou-ye/su-bao-lei-bie.md)
   * 速报
 * [资讯](zi-xun.md)
   * [获取资讯](zi-xun/huo-qu-zi-xun.md)
