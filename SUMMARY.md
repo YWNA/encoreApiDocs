@@ -8,7 +8,7 @@
 * [注册](zhu-ce.md)
 * [账户](zhang-hu.md)
   * [头像](zhang-hu/tou-xiang.md)
-  * 基本用户信息
+  * [基本用户信息](zhang-hu/ji-ben-yong-hu-xin-xi.md)
 * [首页](shou-ye.md)
 * [资讯](zi-xun.md)
   * [获取资讯](zi-xun/huo-qu-zi-xun.md)
