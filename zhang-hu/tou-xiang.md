@@ -1,4 +1,4 @@
-* 接口地址：`/avatar`
+* 接口地址：`/acount/avatar`
 
 * 提交方式：POST
 
