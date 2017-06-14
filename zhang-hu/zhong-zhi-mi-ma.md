@@ -14,19 +14,21 @@
 
 * 接口返回：
 
+  * code为空时
+
   ```json
   {
       "code": 1,
-      "data": {
-          "uid": 514,
-          "username": "dsa",
-          "phone": "17557289510",
-          "sex": 1,
-          "address": null,
-          "register_time": "2017-05-17 20:34:54",
-          "avatar": "http://cdndevelop.jiumaojia.com/2017-06-13-16-25-45175?imageView2/2/w/100",
-          "sinature": null
-      }
+      "data": "短信息发送成功"
+  }
+  ```
+
+  * 接口参数都填写
+
+  ```json
+  {
+      "code": 1,
+      "data": true
   }
   ```
 
