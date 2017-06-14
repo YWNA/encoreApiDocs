@@ -11,8 +11,8 @@
       "code": 1,
       "data": [
           {
-              "Id": 1,
-              "name": "日娱",
+              "Id": 1, //速报类别编号
+              "name": "日娱",//类别名称
               "image_path": "http://om4mfzope.bkt.clouddn.com/category_category_1_1.png,http://om4mfzope.bkt.clouddn.com/category_category_1_2.png"
           },
           {
