@@ -11,7 +11,7 @@
       "code": 1,
       "data": [
           {
-              "id": 1,
+              "Id": 1,
               "name": "日娱",
               "image_path": "http://om4mfzope.bkt.clouddn.com/category_category_1_1.png,http://om4mfzope.bkt.clouddn.com/category_category_1_2.png"
           },
