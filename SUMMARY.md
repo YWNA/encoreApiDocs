@@ -10,6 +10,7 @@
   * [重置密码](zhang-hu/zhong-zhi-mi-ma.md)
   * [头像](zhang-hu/tou-xiang.md)
   * [基本用户信息](zhang-hu/ji-ben-yong-hu-xin-xi.md)
+  * [用户反馈](yong-hu-fan-kui.md)
 * [栏目-速报](shou-ye.md)
   * [Banner](shou-ye/banner.md)
   * [速报类别](shou-ye/su-bao-lei-bie.md)
