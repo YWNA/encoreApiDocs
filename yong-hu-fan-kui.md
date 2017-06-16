@@ -15,10 +15,7 @@
   ```json
   {
       "code": 1,
-      "data": {
-          "token": "FKUU-5lNjSGsQ",
-          "key": "2017-06-16-17-23-17614"
-      }
+      "data": true
   }
   ```
 
