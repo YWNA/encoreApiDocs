@@ -14,7 +14,7 @@
   * [Banner](shou-ye/banner.md)
   * [速报类别](shou-ye/su-bao-lei-bie.md)
   * [速报](shou-ye/su-bao.md)
-* [杂志](za-zhi.md)
+* [图片资源](za-zhi.md)
 
 ## 认证
 
