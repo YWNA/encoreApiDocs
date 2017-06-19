@@ -19,6 +19,7 @@
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
 * [圈子](quan-zi.md)
   * [首页](quan-zi/shou-ye.md)
+  * [详情页面](quan-zi/xiang-qing-ye-mian.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
 
