@@ -19,7 +19,7 @@
 * [圈子](quan-zi.md)
   * [首页](quan-zi/shou-ye.md)
 * [图片资源](za-zhi.md)
-* [速报咨询详情](su-bao-zi-xun-xiang-qing.md)
+* [翻译](fan-yi.md)
 
 ## 认证
 
