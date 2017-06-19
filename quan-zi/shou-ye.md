@@ -43,6 +43,16 @@
                   "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-26-01267"
               }
           ],
+          "periphery_data": [ //周边数据
+              {
+                  "id": 1,
+                  "content": "2",
+                  "type": 2, //1出售2求购3交换4赠送
+                  "account_username": "TOKIO",
+                  "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-16-25-08127",
+                  "image": []
+              }
+          ],
           "post_data": [
               {
                   "post_id": 836,
