@@ -66,7 +66,7 @@
                   "account_username": "刘大伟",
                   "account_avatar": "http://cdndevelop.jiumaojia.com/2017-06-14-09-33-49865?imageView2/2/w/100",
                   "account_id": 2839,
-                  "comments_num": 3,
+                  "comments_num": 3, //评论内容字段数据
                   "comments": {
                       "content": "wwwwwwwwwwwww",
                       "account_username": "刘大伟",
