@@ -1,0 +1,64 @@
+接口地址：/news/detail
+
+* 提交方式：POST
+
+* 接口参数：
+
+  * news\_id：速报资讯编号
+
+  * page：页码（第一页的页码为1）
+
+* 接口返回：
+
+  ```json
+  {
+      "code": 1,
+      "data": {
+          "news_id": 154,
+          "title": "东京地铁CM的几张截图~",
+          "content": [
+              {
+                  "type": "text",
+                  "value": "第一段"
+              },
+              {
+                  "type": "image",
+                  "value": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-55-18115"
+              },
+              {
+                  "type": "text",
+                  "value": "第二段"
+              }
+          ],
+          "category_id": 5,
+          "create_time": "2017-04-01 16:08:00",
+          "section_name": "石原里美",
+          "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-06-46358?imageView2/2/w/100",
+          "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-06-46358?imageView2/2/w/100",
+          "account_name": "石原里美",
+          "banner_image": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-32-25564",
+          "source_image": "http://om4mfzope.bkt.clouddn.com/5_3.png",
+          "comments": [
+              {
+                  "id": 5,
+                  "content": "好",
+                  "comment_time": "2017-04-10 15:49:49",
+                  "at_account_id": null,
+                  "comment_id_p": null,
+                  "comment_id": null,
+                  "username": "Encore日娱酱",
+                  "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
+                  "account_id": 488,
+                  "comment_comment": []
+              }
+          ],
+          "comments_num": 1,
+          "if_praise": 0,
+          "praise_account": [],
+          "praise_num": 0
+      }
+  }
+  ```
+
+
+
