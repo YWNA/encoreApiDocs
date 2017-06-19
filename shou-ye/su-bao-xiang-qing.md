@@ -32,6 +32,7 @@
           ],
           "category_id": 5,
           "create_time": "2017-04-01 16:08:00",
+          "is_translate": 1, //1为支持，0为不支持
           "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-06-46358?imageView2/2/w/100",//用户头像
           "account_name": "石原里美",//用户名
           "banner_image": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-32-25564", //页面顶部封面图片，若结果中字段video_path有值则为视屏的封面图片
