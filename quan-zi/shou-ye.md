@@ -29,14 +29,14 @@
                   "image_path": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-32-21869"
               }
           ],
-          "section_follow_data": [
+          "section_follow_data": [ //用户已经关注圈子数据
               {
                   "section_id": 145,
                   "name": "神木隆之介",
                   "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-11-36337"
               }
           ],
-          "title_data": [
+          "title_data": [ //话题数据
               {
                   "tid": 1,
                   "title": "a",
