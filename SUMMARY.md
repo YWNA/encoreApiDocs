@@ -12,6 +12,7 @@
   * [基本用户信息](zhang-hu/ji-ben-yong-hu-xin-xi.md)
   * [用户反馈](yong-hu-fan-kui.md)
   * [个人中心](ge-ren-zhong-xin.md)
+  * [签到打卡](qian-dao-da-qia.md)
 * [栏目-速报](shou-ye.md)
   * [Banner](shou-ye/banner.md)
   * [速报类别](shou-ye/su-bao-lei-bie.md)
