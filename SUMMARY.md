@@ -17,6 +17,7 @@
   * [Banner](shou-ye/banner.md)
   * [速报类别](shou-ye/su-bao-lei-bie.md)
   * [速报](shou-ye/su-bao.md)
+  * [速报评论](shou-ye/su-bao-ping-lun.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
 * [圈子](quan-zi.md)
   * [首页](quan-zi/shou-ye.md)

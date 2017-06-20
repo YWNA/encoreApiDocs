@@ -39,7 +39,7 @@
           "source_image": "http://om4mfzope.bkt.clouddn.com/5_3.png", //来源图片
           "comments": [
               {
-                  "id": 468,
+                  "comment_id": 468,
                   "content": "21",
                   "comment_time": "2017-06-19 19:58:08",
                   "account_username": "Encore日娱酱",
