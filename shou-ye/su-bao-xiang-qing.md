@@ -53,7 +53,11 @@
           ],
           "comments_num": 1,
           "if_praise": 0,
-          "praise_account": [],
+          "praise_account": [{
+                  "account_id": 490,
+                  "account_username": "Encore小可爱",
+                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-58-08194?imageView2/2/w/100"
+              }],
           "praise_num": 0
       }
   }
