@@ -39,16 +39,44 @@
           "source_image": "http://om4mfzope.bkt.clouddn.com/5_3.png", //来源图片
           "comments": [
               {
-                  "id": 5,
-                  "content": "好",
-                  "comment_time": "2017-04-10 15:49:49",
-                  "at_account_id": null,
-                  "comment_id_p": null,
-                  "comment_id": null,
-                  "username": "Encore日娱酱",
-                  "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
+                  "id": 468,
+                  "content": "21",
+                  "comment_time": "2017-06-19 19:58:08",
+                  "account_username": "Encore日娱酱",
+                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
                   "account_id": 488,
-                  "comment_comment": []
+                  "comment_comment": [
+                      {
+                          "id": 470,
+                          "content": "23",
+                          "comment_time": "2017-06-20 11:32:13",
+                          "account_id": 2839,
+                          "news_id": 20187,
+                          "at_account_id": 2839,
+                          "comment_id": 468,
+                          "comment_id_p": 468,
+                          "account_username": "刘大伟",
+                          "account_avatar": "http://cdndevelop.jiumaojia.com/2017-06-14-09-33-49865?imageView2/2/w/100",
+                          "at_account_username": "刘大伟",
+                          "at_account_avatar": "http://cdndevelop.jiumaojia.com/2017-06-14-09-33-49865?imageView2/2/w/100",
+                          "is_show_at": 1
+                      },
+                      {
+                          "id": 469,
+                          "content": "22",
+                          "comment_time": "2017-06-20 11:30:17",
+                          "account_id": 2839,
+                          "news_id": 20187,
+                          "at_account_id": 488,
+                          "comment_id": 468,
+                          "comment_id_p": 0,
+                          "account_username": "刘大伟",
+                          "account_avatar": "http://cdndevelop.jiumaojia.com/2017-06-14-09-33-49865?imageView2/2/w/100",
+                          "at_account_username": "Encore日娱酱",
+                          "at_account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
+                          "is_show_at": 0
+                      }
+                  ]
               }
           ],
           "comments_num": 1,
