@@ -22,9 +22,10 @@
   * [速报](shou-ye/su-bao.md)
   * [速报评论](shou-ye/su-bao-ping-lun.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
-* [圈子](quan-zi.md)
+* [栏目-圈子](quan-zi.md)
   * [首页](quan-zi/shou-ye.md)
-  * [详情页面](quan-zi/xiang-qing-ye-mian.md)
+  * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
+  * [动态详情](quan-zi/dong-tai-xiang-qing.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
 
