@@ -26,6 +26,7 @@
   * [首页](quan-zi/shou-ye.md)
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
   * [动态详情](quan-zi/dong-tai-xiang-qing.md)
+  * [动态评论](quan-zi/dong-tai-ping-lun.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
 
