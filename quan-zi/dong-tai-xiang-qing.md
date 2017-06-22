@@ -55,14 +55,17 @@
           "praise_num": 3,
           "section_data": [
               {
+                  "section_id": 12,
                   "name": "HeySayJump",
                   "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-33-22576"
               },
               {
+                  "section_id": 12,
                   "name": "HeySayJump",
                   "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-33-22576"
               },
               {
+                  "section_id": 12,
                   "name": "HeySayJump",
                   "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-33-22576"
               }
