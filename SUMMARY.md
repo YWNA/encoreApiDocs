@@ -30,6 +30,7 @@
   * [动态评论](quan-zi/dong-tai-ping-lun.md)
   * [动态点赞](quan-zi/dong-tai-dian-zan.md)
   * [圈子选择](quan-zi/quan-zi-xuan-ze.md)
+  * [分类下的圈子](quan-zi/fen-lei-xia-de-quan-zi.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
 
