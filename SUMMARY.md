@@ -27,6 +27,7 @@
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
   * [动态详情](quan-zi/dong-tai-xiang-qing.md)
   * [动态评论](quan-zi/dong-tai-ping-lun.md)
+  * [动态点赞](quan-zi/dong-tai-dian-zan.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
 
