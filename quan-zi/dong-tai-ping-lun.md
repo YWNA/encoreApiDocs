@@ -1,4 +1,4 @@
-接口地址：/post/comment
+* 接口地址：/post/comment
 
 * 提交方式：POST
 
@@ -8,11 +8,11 @@
 
   * content：评论内容
 
-  * ~~at\__account\__id：@评论的用户编号~~
+  * ~~at\_\_account\_\_id：@评论的用户编号~~
 
   * ~~comment\_id：评论编号~~
 
-  * ~~comment\__id\__p：评论顶级编号~~
+  * ~~comment\_\_id\_\_p：评论顶级编号~~
 
 * 接口返回：
 
