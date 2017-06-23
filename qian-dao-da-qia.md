@@ -1,4 +1,4 @@
-接口地址：/account/checkin
+* 接口地址：/account/checkin
 
 * 提交方式：POST
 
