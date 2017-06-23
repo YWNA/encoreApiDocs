@@ -1,4 +1,4 @@
-接口地址：/post/release
+* 接口地址：/post/release
 
 * 提交方式：POST
 
