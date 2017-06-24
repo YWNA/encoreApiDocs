@@ -15,7 +15,8 @@
               "type": 3,//1、无反应2、跳转网页 3、跳转某个圈子主页 4、跳转某个资讯详情页  5、跳转某个帖子详情 
               "value": 3,
               "image_path": "http://om4mfzope.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170605104743.jpg",
-              "url": ""
+              "url": "",
+              "news_id":'1'
           },
           {
               "id": 2,
