@@ -41,6 +41,7 @@
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
 * [收藏和取消收藏](shou-cang.md)
+* [全部评论](quan-bu-ping-lun.md)
 
 ## 认证
 
