@@ -8,6 +8,8 @@
 
   * page：页码（第一页的页码为1）
 
+  * type：news或者post
+
 * 接口返回：
 
   ```json
