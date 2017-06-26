@@ -12,7 +12,8 @@
   ```json
   {
       "code": 1,
-      "data": true
+      "data": true,
+      "msg": "收藏成功"
   }
   ```
 
