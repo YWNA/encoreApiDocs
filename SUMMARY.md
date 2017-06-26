@@ -40,6 +40,7 @@
   * [动态点赞](quan-zi/dong-tai-dian-zan.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
+* [收藏](shou-cang.md)
 
 ## 认证
 
