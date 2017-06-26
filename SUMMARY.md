@@ -14,6 +14,7 @@
   * [用户反馈](yong-hu-fan-kui.md)
   * [签到打卡](qian-dao-da-qia.md)
   * [注册后圈子选择](zhu-ce-hou-quan-zi-xuan-ze.md)
+  * [他人账户首页](ta-ren-zhang-hu-shou-ye.md)
 * [个人中心](ge-ren-zhong-xin.md)
   * [关注](guan-zhu.md)
   * [帖子](ta-ren-zhong-xin.md)
