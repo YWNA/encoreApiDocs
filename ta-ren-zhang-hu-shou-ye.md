@@ -45,6 +45,7 @@
                   ]
               }
           ],
+          "posts_num": 21
           "sections": [
               {
                   "section_id": 10,
