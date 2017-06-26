@@ -36,7 +36,9 @@
   * [关注（取关）圈子](quan-zi/guan-zhu-quan-zi.md)
 * [图片资源](za-zhi.md)
 * [翻译](fan-yi.md)
-* [发布动态](fa-bu-dong-tai.md)
+* [动态](dong-tai.md)
+  * [发布动态关联圈子](fa-bu-dong-tai-guan-lian-quan-zi.md)
+  * [发布动态](fa-bu-dong-tai.md)
 
 ## 认证
 
