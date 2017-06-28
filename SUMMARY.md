@@ -26,6 +26,7 @@
   * [速报评论](shou-ye/su-bao-ping-lun.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * 速报点赞
+  * [全部评论](quan-bu-ping-lun.md)
 * [栏目-圈子](quan-zi.md)
   * [首页](quan-zi/shou-ye.md)
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
@@ -47,7 +48,6 @@
   * [收藏和取消收藏](shou-cang.md)
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
-* [全部评论](quan-bu-ping-lun.md)
 
 ## 认证
 
