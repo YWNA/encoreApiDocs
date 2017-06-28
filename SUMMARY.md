@@ -46,6 +46,7 @@
 * [融云聊天](rong-yun-liao-tian.md)
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
   * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
+  * [用户信息](rong-yun-liao-tian/yong-hu-xin-xi.md)
 
 ## 认证
 
