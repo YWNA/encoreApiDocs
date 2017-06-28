@@ -26,7 +26,6 @@
   * [速报评论](shou-ye/su-bao-ping-lun.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * 速报点赞
-  * [全部评论](quan-bu-ping-lun.md)
 * [栏目-圈子](quan-zi.md)
   * [首页](quan-zi/shou-ye.md)
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
@@ -39,6 +38,7 @@
   * [发布动态](fa-bu-dong-tai.md)
   * [动态评论](quan-zi/dong-tai-ping-lun.md)
   * [动态点赞](quan-zi/dong-tai-dian-zan.md)
+  * [全部评论](quan-bu-ping-lun.md)
 * [融云聊天](rong-yun-liao-tian.md)
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
   * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
