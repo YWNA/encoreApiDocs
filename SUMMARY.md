@@ -45,6 +45,7 @@
 * [搜索圈子](sou-suo-quan-zi.md)
 * [融云聊天](rong-yun-liao-tian.md)
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
+  * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
 
 ## 认证
 
