@@ -38,10 +38,6 @@
   * [发布动态](fa-bu-dong-tai.md)
   * [动态评论](quan-zi/dong-tai-ping-lun.md)
   * [动态点赞](quan-zi/dong-tai-dian-zan.md)
-* [图片资源](za-zhi.md)
-* [翻译](fan-yi.md)
-* [全部评论](quan-bu-ping-lun.md)
-* [搜索圈子](sou-suo-quan-zi.md)
 * [融云聊天](rong-yun-liao-tian.md)
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
   * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
@@ -49,6 +45,9 @@
 * [收藏](shou-cang.md)
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
   * [收藏和取消收藏](shou-cang.md)
+* [图片资源](za-zhi.md)
+* [翻译](fan-yi.md)
+* [全部评论](quan-bu-ping-lun.md)
 
 ## 认证
 
