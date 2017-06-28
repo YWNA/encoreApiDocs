@@ -5,6 +5,7 @@
 * 接口参数：
 
   * page：页码
+  * type：comments和reply，前者是评论，后者是评论的回复
 
 * 接口返回：
 

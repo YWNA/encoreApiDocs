@@ -8,11 +8,11 @@
 
   * content：评论内容
 
-  * ~~at\__account\__id：@用户的编号~~
+  * ~~at\_\_account\_\_id：@用户的编号~~
 
   * ~~comment\_id：评论的编号~~
 
-  * ~~comment\__id\__p：评论的编号的顶级~~
+  * ~~comment\_\_id\_\_p：评论的编号的顶级~~
 
 * 接口返回：
 
