@@ -46,6 +46,7 @@
 * [收藏](shou-cang.md)
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
   * [收藏和取消收藏](shou-cang.md)
+  * [取消收藏](shou-cang/qu-xiao-shou-cang.md)
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
 
