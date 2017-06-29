@@ -43,6 +43,7 @@
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
   * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
   * [用户信息](rong-yun-liao-tian/yong-hu-xin-xi.md)
+  * [创建群组](rong-yun-liao-tian/chuang-jian-qun-zu.md)
 * [收藏](shou-cang.md)
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
   * [收藏和取消收藏](shou-cang.md)
