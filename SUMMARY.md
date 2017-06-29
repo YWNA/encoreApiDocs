@@ -50,6 +50,8 @@
   * [取消收藏](shou-cang/qu-xiao-shou-cang.md)
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
+* [点赞](dian-zan.md)
+  * [收到的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
 
 ## 认证
 
