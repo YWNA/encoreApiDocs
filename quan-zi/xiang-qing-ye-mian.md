@@ -10,6 +10,8 @@
 
   * type：news或者post
 
+  * sort：0为按时间排序，1为热度排序
+
 * 接口返回：
 
   ```json
