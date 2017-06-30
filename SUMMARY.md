@@ -16,7 +16,7 @@
   * [注册后圈子选择](zhu-ce-hou-quan-zi-xuan-ze.md)
   * [他人账户首页](ta-ren-zhang-hu-shou-ye.md)
 * [栏目-个人中心](ge-ren-zhong-xin.md)
-  * [关注](guan-zhu.md)
+  * [关注列表](guan-zhu.md)
   * [帖子](ta-ren-zhong-xin.md)
   * [粉丝](fen-si.md)
 * [栏目-速报](shou-ye.md)
@@ -46,13 +46,15 @@
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
   * [收藏](shou-cang.md)
   * [取消收藏](shou-cang/qu-xiao-shou-cang.md)
-* [七牛图片token](za-zhi.md)
-* [翻译](fan-yi.md)
 * [赞](dian-zan.md)
   * [收到动态的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
-  * 速报点赞
-  * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
+  * [速报点赞](dian-zan/su-bao-dian-zan.md)
   * [动态点赞](quan-zi/dong-tai-dian-zan.md)
+  * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
+* [七牛图片token](za-zhi.md)
+* [翻译](fan-yi.md)
+* [关注](guan-zhu.md)
+  * 关注圈子或取关圈子
 
 ## 认证
 
