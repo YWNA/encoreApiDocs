@@ -1,4 +1,4 @@
-* 接口地址：/section/concern
+* 接口地址：/account/concern
 
 * 提交方式：POST
 
