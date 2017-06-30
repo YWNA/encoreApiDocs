@@ -55,6 +55,7 @@
 * [翻译](fan-yi.md)
 * [关注](guan-zhu2.md)
   * [关注圈子或取关圈子](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
+  * [关注用户或取消关注](guan-zhu/guan-zhu-yong-hu-huo-qu-xiao-guan-zhu.md)
 
 ## 认证
 
