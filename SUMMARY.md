@@ -49,10 +49,10 @@
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
 * [赞](dian-zan.md)
-  * [收到的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
+  * [收到动态的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
   * 速报点赞
-  * [动态点赞](quan-zi/dong-tai-dian-zan.md)
   * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
+  * [动态点赞](quan-zi/dong-tai-dian-zan.md)
 
 ## 认证
 

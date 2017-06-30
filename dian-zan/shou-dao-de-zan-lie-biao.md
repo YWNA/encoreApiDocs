@@ -42,7 +42,7 @@
           {
               "account_id": 26026,
               "account_username": "秦小么",
-              "account_avatar": "http://wx.qlogo.cn/mmopen/iakbnHP0m3I9IoUrJF5gAricUicKicsbAvfttT0eibzRKAbkpyRm8kZNfc7SFrTvt03555JjiabJWPpHyKWVzalpJm4a0wHH03mMxa/?imageView2/2/w/100",
+              "account_avatar": "http://wx.qlogo.cn/mmopen/alpJm4a0wHH03mMxa/?imageView2/2/w/100",
               "praise_time": "2017-06-29 17:35:48",
               "post_id": 1,
               "post_content": "我是第一个诶",
