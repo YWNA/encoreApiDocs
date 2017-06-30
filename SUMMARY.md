@@ -54,7 +54,7 @@
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
 * [关注](guan-zhu.md)
-  * 关注圈子或取关圈子
+  * [关注圈子或取关圈子](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
 
 ## 认证
 
