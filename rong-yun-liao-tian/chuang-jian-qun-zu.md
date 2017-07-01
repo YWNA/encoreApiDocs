@@ -11,7 +11,12 @@
   ```json
   {
       "code": 1,
-      "data": true
+      "data": {
+          "userId": "488",
+          "groupId": "113",
+          "groupName": "筱田麻里子",
+          "groupAvatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-09-08257"
+      }
   }
   ```
 
