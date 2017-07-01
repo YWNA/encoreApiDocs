@@ -1,10 +1,11 @@
-* 接口地址：/section/follow
+* 接口地址：/follow
 
 * 提交方式：POST
 
 * 接口参数：
 
-  * section\_id：圈子编号
+  * type：account或者section
+  * value：编号
 
 * 接口返回：
 
