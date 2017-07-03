@@ -37,6 +37,7 @@
   * [发布动态](fa-bu-dong-tai.md)
   * [动态评论](quan-zi/dong-tai-ping-lun.md)
   * [全部评论](quan-bu-ping-lun.md)
+  * [动态删除](dong-tai-shan-chu.md)
 * [融云聊天](rong-yun-liao-tian.md)
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
   * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
