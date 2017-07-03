@@ -1,4 +1,4 @@
-接口地址：/news/detail
+* 接口地址：/news/detail
 
 * 提交方式：POST
 
