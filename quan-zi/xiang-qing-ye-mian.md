@@ -94,7 +94,7 @@
                   "weibo_avatar": "?imageView2/2/w/100"
               },
               {
-                  "weibo_name": "Emma521_ ",
+                  "weibo_name": "Emma521_",
                   "weibo_path": "http://weibo.com/101198549?profile_ftype=1&amp;is_all=1#_0",
                   "weibo_avatar": "?imageView2/2/w/100"
               },
@@ -114,7 +114,7 @@
                   "weibo_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-06-26-17-48-10994?imageView2/2/w/100"
               }
           ]
-    
+
       }
   }
   ```
