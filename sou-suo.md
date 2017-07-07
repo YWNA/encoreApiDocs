@@ -6,10 +6,91 @@
 
   * word：翻译的源内容
   * type：搜索内容类型post（动态帖子内容）news（速报资讯标题）section\(圈子名称\)account\(用户名称\)
+  * page：页码
 
 * 接口返回：
 
-  ```json
+* ## news
+* ```json
+  {
+      "code": 1,
+      "data": [
+          {
+              "id": 15,
+              "news_title": "映画『君と100回目の恋』とスリーエフのコラボが決定！",
+              "news_read_num": 4573,
+              "video_path": "",
+              "video_image": "",
+              "account_username": "33Talk",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
+              "type": "image",
+              "news_image": [
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-35-09440"
+              ]
+          },
+          {
+              "id": 18,
+              "news_title": "【功课】森绘梨佳17年春季Make Up",
+              "news_read_num": 1560,
+              "video_path": "",
+              "video_image": "",
+              "account_username": "33Talk",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
+              "type": "image",
+              "news_image": [
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-28868",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-28836",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-29382",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-29998",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-29705",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-30179",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-30127",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-30628",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-31478",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-31690",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-32568",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-32435",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-32921",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-33582",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-27-17-47-33139"
+              ]
+          },
+          {
+              "id": 24,
+              "news_title": "【新品资讯】​PAUL & JOE 15周年限定版礼盒",
+              "news_read_num": 1781,
+              "video_path": "",
+              "video_image": "",
+              "account_username": "33Talk",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
+              "type": "image",
+              "news_image": [
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-17-59-03271",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-17-59-03617"
+              ]
+          },
+          {
+              "id": 28,
+              "news_title": "【新品资讯】LADUREE 2017夏季新品限量蕾美珠宝盒颊彩盘",
+              "news_read_num": 1963,
+              "video_path": "",
+              "video_image": "",
+              "account_username": "33Talk",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
+              "type": "image",
+              "news_image": [
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-18-17-38996",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-18-17-38802",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-18-17-38977",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-18-17-38635",
+                  "http://cdnnewsimage.jiumaojia.com/2017-03-31-18-17-38561"
+              ]
+          }
+      ]
+  }
+  ```
+* ## **POST**
+* ```json
   {
       "code": 1,
       "data": [
