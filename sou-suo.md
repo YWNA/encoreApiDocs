@@ -10,8 +10,62 @@
 
 * 接口返回：
 
-* acco
-
+* ## account
+* ```json
+  {
+      "code": 1,
+      "data": [
+          {
+              "account_id": 18,
+              "account_username": "akb48",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-33-36759?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 19,
+              "account_username": "SKE48 ",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-35-39315?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 20,
+              "account_username": "nmb48",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-37-39603?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 21,
+              "account_username": "hkt48",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-39-07681?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 22,
+              "account_username": "乃木坂46",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-41-01793?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 23,
+              "account_username": "欅坂46",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-42-03829?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 391,
+              "account_username": "ps4",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-28-14-57-18275?imageView2/2/w/100",
+              "account_sinature": ""
+          },
+          {
+              "account_id": 497,
+              "account_username": "218_18142005882",
+              "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-04-20-17-22-51952?imageView2/2/w/100",
+              "account_sinature": "青蛙"
+          }
+      ]
+  }
+  ```
 * ## section
 * ```json
   {
