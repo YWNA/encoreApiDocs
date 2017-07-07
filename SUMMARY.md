@@ -57,6 +57,7 @@
   * [关注或取关](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
+* [搜索](sou-suo.md)
 
 ## 认证
 
