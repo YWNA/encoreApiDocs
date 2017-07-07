@@ -4,11 +4,68 @@
 
 * 接口参数：
 
-  * word：翻译的源内容
+  * word：搜索的内容文本
   * type：搜索内容类型post（动态帖子内容）news（速报资讯标题）section\(圈子名称\)account\(用户名称\)
   * page：页码
 
 * 接口返回：
+
+* ## section
+* ```json
+  {
+      "code": 1,
+      "data": [
+          {
+              "section_id": 18,
+              "section_name": "AKB48",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-33-36759?imageView2/2/w/100",
+              "section_description": "由秋元康担任总制作人的日本大型女子偶像组合"
+          },
+          {
+              "section_id": 19,
+              "section_name": "SKE48 ",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-35-39315?imageView2/2/w/100",
+              "section_description": "以名古屋市为中心，由秋元康担任总制作人的日本大型女子偶像组合"
+          },
+          {
+              "section_id": 20,
+              "section_name": "NMB48",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-37-39603?imageView2/2/w/100",
+              "section_description": "以大阪为活动中心，由秋元康担任制作人的日本偶像女子团体"
+          },
+          {
+              "section_id": 21,
+              "section_name": "HKT48",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-39-07681?imageView2/2/w/100",
+              "section_description": "秋元康担任总制作人，以福冈市为活动据点的日本女子偶像组合"
+          },
+          {
+              "section_id": 22,
+              "section_name": "乃木坂46",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-41-01793?imageView2/2/w/100",
+              "section_description": "大型女子偶像组合，总制作人和48系组合同为秋元康"
+          },
+          {
+              "section_id": 23,
+              "section_name": "欅坂46",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-42-03829?imageView2/2/w/100",
+              "section_description": "日本大型女子偶像组合，总制作人为秋元康"
+          },
+          {
+              "section_id": 391,
+              "section_name": "ps4",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-28-14-57-18275?imageView2/2/w/100",
+              "section_description": "PlayStation游戏机系列的第四代游戏主机"
+          },
+          {
+              "section_id": 587,
+              "section_name": "STU48",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-06-01-11-22-43262?imageView2/2/w/100",
+              "section_description": "日本女子偶像组合AKB48的姐妹团，「STU」即「瀬戸内（SeToUchi）」的缩写。"
+          }
+      ]
+  }
+  ```
 
 * ## news
 * ```json
