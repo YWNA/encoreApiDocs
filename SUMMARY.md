@@ -56,6 +56,7 @@
 * [关注](guan-zhu2.md)
   * [关注或取关](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
 * [评论](ping-lun.md)
+  * [评论及其回复](ping-lun/ping-lun-ji-qi-hui-fu.md)
   * [删除评论及其回复](ping-lun/shan-chu-ping-lun-ji-qi-hui-fu.md)
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
