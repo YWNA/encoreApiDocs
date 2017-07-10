@@ -55,6 +55,8 @@
   * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
 * [关注](guan-zhu2.md)
   * [关注或取关](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
+* [评论](ping-lun.md)
+  * [删除评论及其回复](ping-lun/shan-chu-ping-lun-ji-qi-hui-fu.md)
 * [七牛图片token](za-zhi.md)
 * [翻译](fan-yi.md)
 * [搜索](sou-suo.md)
