@@ -1,4 +1,4 @@
-* 接口地址：/image
+* 接口地址：/delcomments
 
 * 提交方式：POST
 
