@@ -64,6 +64,8 @@
                   "comments_num": 0,
                   "praise_num": 1,
                   "if_praise": 1,
+                  "is_save": 0,
+                  "is_manager": 0,
                   "image": [
                       "http://cdndevelop.jiumaojia.com/2017-06-14-10-01-51192",
                       "http://cdndevelop.jiumaojia.com/2017-06-14-10-01-57832"
