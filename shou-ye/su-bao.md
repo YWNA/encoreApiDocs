@@ -38,7 +38,9 @@
                   "address": "",
                   "register_time": "2017-04-10 15:26:08",
                   "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
-                  "sinature": ""
+                  "sinature": "",
+                  "is_member": 0,
+                  "is_manager": 0
               },
               "type": "video", //速报类别
               "comments_num": 0, //评论数量

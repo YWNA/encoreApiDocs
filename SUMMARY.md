@@ -22,7 +22,7 @@
 * [栏目-速报](shou-ye.md)
   * [Banner](shou-ye/banner.md)
   * [速报类别](shou-ye/su-bao-lei-bie.md)
-  * [速报](shou-ye/su-bao.md)
+  * [速报首页](shou-ye/su-bao.md)
   * [速报评论](shou-ye/su-bao-ping-lun.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
