@@ -71,7 +71,9 @@
                       "address": "",
                       "register_time": "2017-03-24 15:16:35",
                       "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
-                      "sinature": "AAAAB"
+                      "sinature": "AAAAB",
+                      "is_member": 0,
+                      "is_manager": 0
                   },
                   "type": "image",
                   "comments_num": 1,
