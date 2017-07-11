@@ -38,6 +38,8 @@
                   "comments_num": 0,
                   "praise_num": 0,
                   "if_praise": 0,
+                  "is_save": 0, //是否收藏
+                  "is_manager": 0, //是否是圈主
                   "image": [
                       "http://cdndevelop.jiumaojia.com/2017-06-08-09-54-58526",
                       "http://cdndevelop.jiumaojia.com/2017-06-08-09-55-02160",

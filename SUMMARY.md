@@ -27,7 +27,7 @@
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
 * [栏目-圈子](quan-zi.md)
-  * [首页](quan-zi/shou-ye.md)
+  * [圈子首页](quan-zi/shou-ye.md)
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
   * [圈子选择](quan-zi/quan-zi-xuan-ze.md)
   * [分类下的圈子](quan-zi/fen-lei-xia-de-quan-zi.md)
