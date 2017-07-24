@@ -12,10 +12,10 @@
   {
       "code": 1,
       "data": {
-          "userId": "488",
-          "groupId": "113",
-          "groupName": "筱田麻里子",
-          "groupAvatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-09-08257"
+          "userId": "30093",
+          "groupId": 124019,
+          "groupName": "124019-弹幕",
+          "groupAvatar": "http://om4mfzope.bkt.clouddn.com/default_avatar.jpg"
       }
   }
   ```
