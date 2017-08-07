@@ -51,7 +51,6 @@
 * [收藏](shou-cang.md)
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
   * [添加收藏](shou-cang.md)
-  * [取消收藏](shou-cang/qu-xiao-shou-cang.md)
 * [赞](dian-zan.md)
   * [收到动态的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
   * [速报点赞](dian-zan/su-bao-dian-zan.md)
