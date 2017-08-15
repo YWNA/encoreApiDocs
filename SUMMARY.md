@@ -31,7 +31,6 @@
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
   * [圈子选择](quan-zi/quan-zi-xuan-ze.md)
   * [分类下的圈子](quan-zi/fen-lei-xia-de-quan-zi.md)
-  * [关注（取关）圈子](quan-zi/guan-zhu-quan-zi.md)
 * [动态](dong-tai.md)
   * [发布动态关联圈子](fa-bu-dong-tai-guan-lian-quan-zi.md)
   * [动态详情](quan-zi/dong-tai-xiang-qing.md)
