@@ -55,13 +55,13 @@
   * [评论及其回复](ping-lun/ping-lun-ji-qi-hui-fu.md)
   * [个人帖子全部评论](quan-bu-ping-lun.md)
   * [删除评论及其回复](ping-lun/shan-chu-ping-lun-ji-qi-hui-fu.md)
-* [七牛图片token](za-zhi.md)
-* [翻译](fan-yi.md)
-* [搜索](sou-suo.md)
-* [启动闪图](qi-dong-shan-tu.md)
 * [弹幕](dan-mu.md)
   * [创建弹幕](dan-mu/chuang-jian-dan-mu.md)
   * [弹幕历史](dan-mu/dan-mu-li-shi.md)
+* [翻译](fan-yi.md)
+* [七牛图片上传token](za-zhi.md)
+* [搜索](sou-suo.md)
+* [启动闪图](qi-dong-shan-tu.md)
 * [全局开关](quan-ju-kai-guan.md)
 
 ## 认证
