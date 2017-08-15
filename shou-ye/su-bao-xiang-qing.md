@@ -23,7 +23,14 @@
               },
               {
                   "type": "image",
-                  "value": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-55-18115"
+                  "value": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-55-18115",
+                  "image_info": {
+                      "size": 219458,
+                      "format": "jpeg",
+                      "width": 1600,
+                      "height": 1066,
+                      "colorModel": "ycbcr"
+                  }
               },
               {
                   "type": "text",

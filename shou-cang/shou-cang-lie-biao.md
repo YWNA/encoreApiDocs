@@ -13,7 +13,7 @@
 * 接口参数：
 
   * type：news或者post；收藏的内容分为动态帖子\(post\)和速报资讯\(news\)
-  * value：
+  * value：场景1和场景2时必填，其值为相应type类型下的编号id
   * page：页码
 
 * 接口返回：
