@@ -15,7 +15,7 @@
           "banner_data": [
               {
                   "type": 1, //1、无反应2、跳转网页 3、跳转某个圈子主页 4、跳转某个资讯详情页  5、跳转某个帖子详情
-                  "value": " ",
+                  "value": "",
                   "image_path": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-22-34593"
               },
               {
