@@ -10,7 +10,7 @@
 
 * 接口返回：
 
-* ## account
+* ## type：account
 * ```json
   {
       "code": 1,
@@ -66,7 +66,7 @@
       ]
   }
   ```
-* ## section
+* ## type：section
 * ```json
   {
       "code": 1,
@@ -122,7 +122,7 @@
       ]
   }
   ```
-* ## news
+* ## type：news速报资讯
 * ```json
   {
       "code": 1,
@@ -201,7 +201,7 @@
       ]
   }
   ```
-* ## **POST**
+* ## type:post**动态帖子**
 * ```json
   {
       "code": 1,
