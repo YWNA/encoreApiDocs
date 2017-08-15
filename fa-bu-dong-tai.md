@@ -1,5 +1,5 @@
-* 动态发布使用场景：
-  1. 准备发布动态时，提供已关注的圈子的数据
+* 动态发布使用场景：  
+  1. 准备发布动态时，提供已关注的圈子的数据  
   2. 发布动态信息内容
 
 * 接口地址：/post/release
@@ -8,7 +8,7 @@
 
 * 接口参数：
 
-  * section：1，场景1时则补充该字段，且值为1
+  * **section：1，场景1时则补充该字段，且值为1**
 
   * content：动态内容
 
@@ -18,7 +18,28 @@
 
 * 接口返回：
 
-  ```json
+* 场景1返回数据结构
+
+* ```json
+  {
+      "code": 1,
+      "data": [
+          {
+              "section_name": "NMB48",
+              "section_id": 20,
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-37-39603?imageView2/2/w/100"
+          },
+          {
+              "section_name": "山下智久",
+              "section_id": 11,
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-17-18189?imageView2/2/w/100"
+          }
+      ]
+  }
+  ```
+* 场景2返回数据结构
+
+* ```json
   {
       "code": 1,
       "data": true
