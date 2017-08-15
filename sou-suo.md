@@ -10,7 +10,7 @@
 
 * 接口返回：
 
-* ## type：account
+* ## type：account用户
 * ```json
   {
       "code": 1,
@@ -66,7 +66,7 @@
       ]
   }
   ```
-* ## type：section
+* ## type：section圈子
 * ```json
   {
       "code": 1,
