@@ -12,7 +12,6 @@
   * [头像（iOS）](zhang-hu/tou-xiang.md)
   * [基本用户信息](zhang-hu/ji-ben-yong-hu-xin-xi.md)
   * [用户反馈](yong-hu-fan-kui.md)
-  * [注册后圈子选择](zhu-ce-hou-quan-zi-xuan-ze.md)
   * [他人账户首页](ta-ren-zhang-hu-shou-ye.md)
 * [栏目-个人中心](ge-ren-zhong-xin.md)
   * [关注列表](guan-zhu.md)
