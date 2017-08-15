@@ -34,7 +34,6 @@
 * [动态](dong-tai.md)
   * [动态详情](quan-zi/dong-tai-xiang-qing.md)
   * [发布动态](fa-bu-dong-tai.md)
-  * [动态评论](quan-zi/dong-tai-ping-lun.md)
   * [动态删除](dong-tai-shan-chu.md)
   * [动态举报](dong-tai-ju-bao.md)
 * [融云聊天](rong-yun-liao-tian.md)
