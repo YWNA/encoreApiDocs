@@ -1,12 +1,41 @@
+* 圈子选择使用场景：
+
+  1. 用户注册后的圈子时的选择
+
+  2. 用户添加圈子时的选择
+
 * 接口地址：/section/select
 
 * 提交方式：POST
 
-* 接口参数：无
+* 接口参数：
+
+  * register：1，场景1的时候则补充本字段，且字段值为1；场景2的时候则忽略本字段。
 
 * 接口返回：
 
-  ```json
+* 场景1的返回数据结构
+
+* ```json
+  {
+      "code": 1,
+      "data": [
+          {
+              "section_id": 1,
+              "section_name": "33Talk",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/200"
+          },
+          {
+              "section_id": 2,
+              "section_name": "TOKIO",
+              "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-16-25-08127?imageView2/2/w/200"
+          }
+      ]
+  }
+  ```
+* 场景2的返回数据结构
+
+* ```json
   {
       "code": 1,
       "data": {
@@ -46,8 +75,6 @@
       }
   }
   ```
-
-
 
 
 
