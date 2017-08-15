@@ -8,7 +8,7 @@
 
   * page：页码（第一页的页码为1）
 
-  * type：news或者post
+  * type：news\(速报资讯\)或者post\(动态帖子\)
 
   * sort：0为按时间排序，1为热度排序
 
