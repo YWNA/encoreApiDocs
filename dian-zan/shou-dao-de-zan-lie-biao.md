@@ -1,3 +1,9 @@
+* 接口场景
+
+  * 获取速报资讯的所有点赞信息，则news\__id必填，page和page\_size默认1和8_
+
+  * 获取动态帖子的所有点赞信息，则post\__id必填，page和page_\_size默认1和8
+
 * 接口地址：/praise
 
 * 提交方式：POST
@@ -5,6 +11,11 @@
 * 接口参数：
 
   * page：页码
+  * page\_size：页数
+  * news\_id：速报资讯编号
+  * post\_id：动态帖子编号
+  * type：
+  * value：
 
 * 接口返回：
 
