@@ -4,6 +4,10 @@
 
   * 获取动态帖子的所有点赞信息，则post\__id必填，page和page_\_size默认1和8
 
+  * 对速报点赞，type必填为post，value则为速报编号
+
+  * 对帖子点赞，type必填为news，value则为帖子编号
+
 * 接口地址：/praise
 
 * 提交方式：POST
