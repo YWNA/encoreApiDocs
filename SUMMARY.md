@@ -46,8 +46,6 @@
   * [添加收藏](shou-cang.md)
 * [赞](dian-zan.md)
   * [收到动态的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
-  * [速报点赞](dian-zan/su-bao-dian-zan.md)
-  * [动态点赞](quan-zi/dong-tai-dian-zan.md)
   * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
 * [关注](guan-zhu2.md)
   * [关注或取关](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
