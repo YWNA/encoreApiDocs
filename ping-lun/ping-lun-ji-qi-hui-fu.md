@@ -3,8 +3,10 @@
 * 提交方式：POST
 
 * 接口参数：
+
   * post\_id：动态帖子评论编号
   * news\_id：速报资讯编号
+  * comment\_id：回复评论的评论编号
   * content：内容
 
 * 接口返回：
