@@ -6,7 +6,7 @@
 
   * sinature：用户的手机号码
 
-  * avatar\_key：七牛的key
+  * avatar\_key：七牛上传图片的key
 
   * username：用户的密码
 
