@@ -6,6 +6,8 @@
 
   * sinature：用户的手机号码
 
+  * avatar\_key：七牛的key
+
   * username：用户的密码
 
   * sex：0为女，1为男，2为无
