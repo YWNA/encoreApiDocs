@@ -15,6 +15,8 @@ data:
 
   2.password：用户的密码
 
+  3.type：wechat，qq，weibo（第三方登陆）{iconURL，platformName，accessToken，userName，usid}
+
 * 接口返回：
 
   ```json
