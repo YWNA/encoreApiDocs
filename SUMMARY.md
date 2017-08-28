@@ -56,11 +56,7 @@
 * [弹幕](dan-mu.md)
   * [创建弹幕](dan-mu/chuang-jian-dan-mu.md)
   * [弹幕历史](dan-mu/dan-mu-li-shi.md)
-* [翻译](fan-yi.md)
-* [七牛图片上传token](za-zhi.md)
-* [搜索](sou-suo.md)
-* [启动闪图](qi-dong-shan-tu.md)
-* [全局开关](quan-ju-kai-guan.md)
+* 资源区
 
 ## 认证
 
