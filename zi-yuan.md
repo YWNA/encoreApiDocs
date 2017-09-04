@@ -1,4 +1,4 @@
-接口地址：/search
+* 接口地址：/newsr
 
 * 提交方式：POST
 
