@@ -56,7 +56,8 @@
 * [弹幕](dan-mu.md)
   * [创建弹幕](dan-mu/chuang-jian-dan-mu.md)
   * [弹幕历史](dan-mu/dan-mu-li-shi.md)
-* 资源区
+* [资源区](zi-yuan-qu.md)
+* [资源](zi-yuan.md)
 
 ## 认证
 
