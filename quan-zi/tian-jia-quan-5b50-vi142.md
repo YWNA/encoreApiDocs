@@ -58,28 +58,23 @@
       }
   }
   ```
-* ```json
+* section\_category\_id为空时
+
+*   ```json
   {
       "code": 1,
       "data": {
-          "section_follow": [ //已经关注的圈子
+          "section_data": [
               {
-                  "section_id": 18,
-                  "section_name": "AKB48",
-                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-33-36759?imageView2/2/w/100"
-              }
-          ],
-          "section_hot": [ //热门圈子
-              {
-                  "section_id": 423,
-                  "section_name": "吐槽区",
-                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-18-00-51514?imageView2/2/w/100",
+                  "section_id": 106,
+                  "section_name": "真野惠里菜",
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-14-52-17548?imageView2/2/w/100?imageView2/2/w/100",
                   "is_follow": 0
               },
               {
-                  "section_id": 425,
-                  "section_name": "面基区",
-                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-17-59-19604?imageView2/2/w/100",
+                  "section_id": 672,
+                  "section_name": "竹村桐子（きゃりーぱみゅぱみゅ）",
+                  "section_avatar": "http://cdnsocial.jiumaojia.com/2017-08-31-17-41-09156?imageView2/2/w/100?imageView2/2/w/100",
                   "is_follow": 0
               }
           ],
