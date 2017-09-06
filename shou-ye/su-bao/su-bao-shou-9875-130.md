@@ -13,7 +13,7 @@
 
   * category\_id：非必填；1为速报资讯，2为资源，3为剧评，5为周边，7为扩列，9字幕组
 
-  * category\__category\__id：
+  * category\_\_category\_\_id：
 
   * page：非必填；页码（第一页的页码为1）
 
@@ -29,371 +29,375 @@
               "category_id": 1,
               "category_data": [
                   {
-                      "news_id": "25072",
-                      "account_id": "511",
-                      "video_path": "http://video.jiumaojia.com/o_1bmh8d06qaub13nb1vbj1hp93qo9.mp4",
-                      "video_image": "http://cdnsocial.jiumaojia.com/2017-08-02-18-29-06259",
-                      "read_num": "3294",
-                      "title": "小嶋阳菜CM：おぎやはぎ Web限定 DMMバヌーシー バヌメン、バヌジョ篇",
-                      "create_time": "3天前",
-                      "label_id": "3",
+                      "news_id": 27221,
+                      "account_id": 106699,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 11510,
+                      "title": "生田斗真主演 《人生密密缝》（他们认真编织的时候）剧情简介",
+                      "create_time": "3小时前",
+                      "classType": 0,
+                      "class_type": 0,
                       "account_data": {
-                          "uid": "511",
-                          "username": "咪报社",
-                          "phone": "13532645938",
+                          "uid": 106699,
+                          "username": "encore阿三",
+                          "phone": "9082648891",
                           "country": "",
                           "pro": "",
                           "area": "",
-                          "sex": "0",
+                          "sex": 0,
                           "address": "",
-                          "register_time": "2017-05-15 17:20:54",
-                          "avatar": "http://cdnsocial.jiumaojia.com/2017-08-05-13-40-30820?imageView2/2/w/100",
-                          "sinature": "sexy girl",
-                          "is_member": "0",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-18-28-48117?imageView2/2/w/600"
-                      ],
-                      "type": "video"
-                  },
-                  {
-                      "news_id": "25071",
-                      "account_id": "91",
-                      "read_num": "30030",
-                      "title": "佐佐木希：雨が降ると君は優しい 虽然是很难的角色，日渐感受到了意义",
-                      "create_time": "3天前",
-                      "label_id": "8",
-                      "account_data": {
-                          "uid": "91",
-                          "username": "佐佐木希",
-                          "phone": 1,
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "2",
-                          "address": "",
-                          "register_time": "2017-03-24 07:16:43",
-                          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-03-32-43582?imageView2/2/w/100",
+                          "register_time": "2017-08-11 13:27:12",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100",
                           "sinature": "",
-                          "is_member": "0",
+                          "is_member": 0,
                           "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243",
                           "is_manager": 0
                       },
                       "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-18-08-29713?imageView2/2/w/600",
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-18-08-30178?imageView2/2/w/600",
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-18-08-31886?imageView2/2/w/600"
-                      ],
-                      "type": "image"
-                  },
-                  {
-                      "news_id": "25068",
-                      "account_id": "102",
-                      "read_num": "40768",
-                      "title": "土屋太凤：哥哥太爱我了怎么办 系列图，哥哥的pose总是很新颖",
-                      "create_time": "3天前",
-                      "label_id": "8",
-                      "account_data": {
-                          "uid": "102",
-                          "username": "土屋太凤",
-                          "phone": 1,
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "2",
-                          "address": "",
-                          "register_time": "2017-03-24 07:16:43",
-                          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-03-26-04570?imageView2/2/w/100",
-                          "sinature": "",
-                          "is_member": "0",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-16-41-36814?imageView2/2/w/600",
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-16-41-36630?imageView2/2/w/600",
-                          "http://cdnsocial.jiumaojia.com/2017-08-02-16-41-37900?imageView2/2/w/600"
+                          "http://cdnsocial.jiumaojia.com/2017-09-06-09-52-46707?imageView2/2/w/600"
                       ],
                       "type": "image"
                   }
-              ]
-          },
-          {
-              "category_id": 2,
-              "category_data": [
-                  {
-                      "news_id": "25191",
-                      "account_id": "33546",
-                      "read_num": "46130",
-                      "title": "小松菜奈，对初共演的山崎贤人见面前的印象是？",
-                      "create_time": "22小时前",
-                      "label_id": "3",
-                      "account_data": {
-                          "uid": "33546",
-                          "username": "mikiiii酱",
-                          "phone": "19900001694",
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "2",
-                          "address": "",
-                          "register_time": "2017-07-13 16:20:18",
-                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
-                          "sinature": "",
-                          "is_member": "1",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-05-12-23-58894?imageView2/2/w/600"
-                      ],
-                      "type": "image"
-                  },
-                  {
-                      "news_id": "25189",
-                      "account_id": "33546",
-                      "read_num": "28102",
-                      "title": "贺来贤人对荣仓奈奈的求婚密语揭晓「是认真的吗?」「认真的」",
-                      "create_time": "1天前",
-                      "label_id": "3",
-                      "account_data": {
-                          "uid": "33546",
-                          "username": "mikiiii酱",
-                          "phone": "19900001694",
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "2",
-                          "address": "",
-                          "register_time": "2017-07-13 16:20:18",
-                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
-                          "sinature": "",
-                          "is_member": "1",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-05-11-38-49992?imageView2/2/w/600"
-                      ],
-                      "type": "image"
-                  },
-                  {
-                      "news_id": "25185",
-                      "account_id": "511",
-                      "video_path": "http://video.jiumaojia.com/o_1bmmqj17c1hbr1qjmvrmi9l5en9.mp4",
-                      "video_image": "http://cdnsocial.jiumaojia.com/2017-08-04-22-23-47548",
-                      "read_num": "11658",
-                      "title": "坂口健太郎CM：ツタヤ トーンモバイル  空気を読まずにプロポーズ篇",
-                      "create_time": "1天前",
-                      "label_id": "3",
-                      "account_data": {
-                          "uid": "511",
-                          "username": "咪报社",
-                          "phone": "13532645938",
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "0",
-                          "address": "",
-                          "register_time": "2017-05-15 17:20:54",
-                          "avatar": "http://cdnsocial.jiumaojia.com/2017-08-05-13-40-30820?imageView2/2/w/100",
-                          "sinature": "sexy girl",
-                          "is_member": "0",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-04-22-23-09818?imageView2/2/w/600"
-                      ],
-                      "type": "video"
-                  }
-              ]
+              ],
+              "category_banner_data": [] //banner数据
           },
           {
               "category_id": 3,
               "category_data": [
                   {
-                      "news_id": "25188",
-                      "account_id": "33546",
-                      "video_path": "http://video.jiumaojia.com/002ZCLXrlx07dbXkzXcs010f0100eteX0k01.mp4",
-                      "video_image": "http://cdnsocial.jiumaojia.com/2017-08-05-11-17-28461",
-                      "read_num": "9909",
-                      "title": "SexyZone菊池风磨solo live「風 is I？」这么帅气你还是我认识的磨宝吗？",
-                      "create_time": "1天前",
-                      "label_id": "3",
+                      "news_id": 27221,
+                      "account_id": 106699,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 11510,
+                      "title": "生田斗真主演 《人生密密缝》（他们认真编织的时候）剧情简介",
+                      "create_time": "3小时前",
+                      "classType": 0,
+                      "class_type": 0,
                       "account_data": {
-                          "uid": "33546",
-                          "username": "mikiiii酱",
-                          "phone": "19900001694",
+                          "uid": 106699,
+                          "username": "encore阿三",
+                          "phone": "9082648891",
                           "country": "",
                           "pro": "",
                           "area": "",
-                          "sex": "2",
+                          "sex": 0,
                           "address": "",
-                          "register_time": "2017-07-13 16:20:18",
-                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
+                          "register_time": "2017-08-11 13:27:12",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100",
                           "sinature": "",
-                          "is_member": "1",
+                          "is_member": 0,
                           "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243",
                           "is_manager": 0
                       },
                       "image": [
-                          "http://cdnsocial.jiumaojia.com/default_avatar.jpg?imageView2/2/w/600"
-                      ],
-                      "type": "video"
-                  },
-                  {
-                      "news_id": "25186",
-                      "account_id": "804",
-                      "read_num": "185731",
-                      "title": "片寄凉太：8月25日(周五)，为了答谢和见一见一直给予我支持的中国粉丝们，我将在上海举办个人见面会！",
-                      "create_time": "1天前",
-                      "label_id": "8",
-                      "account_data": {
-                          "uid": "804",
-                          "username": "片寄凉太",
-                          "phone": 1,
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "2",
-                          "address": "",
-                          "register_time": "2017-05-23 16:28:39",
-                          "avatar": "http://om4mfzope.bkt.clouddn.com/default_avatar.jpg?imageView2/2/w/100",
-                          "sinature": "",
-                          "is_member": "0",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-04-22-32-11207?imageView2/2/w/600"
+                          "http://cdnsocial.jiumaojia.com/2017-09-06-09-52-46707?imageView2/2/w/600"
                       ],
                       "type": "image"
                   },
                   {
-                      "news_id": "25184",
-                      "account_id": "33546",
-                      "video_path": "http://video.jiumaojia.com/%E5%9C%9F%E5%B1%8B%E5%A4%AA%E9%B3%B3%20%E3%80%8EFe%CC%81licies%E3%80%8F.mp4",
-                      "video_image": "http://cdnsocial.jiumaojia.com/2017-08-04-21-48-22113",
-                      "read_num": "15410",
-                      "title": "土屋太鳳凤演唱「Felicies」主題歌配信开始，MV也公开",
-                      "create_time": "1天前",
-                      "label_id": "3",
+                      "news_id": 27213,
+                      "account_id": 259,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 1853,
+                      "title": "玉城Tina：真的“yagitama”",
+                      "create_time": "14小时前",
+                      "classType": 0,
+                      "class_type": 0,
                       "account_data": {
-                          "uid": "33546",
+                          "uid": 259,
+                          "username": "玉城Tina",
+                          "phone": 1,
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-03-24 07:16:43",
+                          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-07-25744?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 0,
+                          "label": 0,
+                          "source_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-07-25744",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-05-23-18-09457?imageView2/2/w/600"
+                      ],
+                      "type": "image"
+                  },
+                  {
+                      "news_id": 27208,
+                      "account_id": 90,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 3694,
+                      "title": "永野芽郁：《是我们做的》第八话，应该是很有冲击性的",
+                      "create_time": "15小时前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "account_data": {
+                          "uid": 90,
+                          "username": "永野芽郁",
+                          "phone": 1,
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-03-24 07:16:43",
+                          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-02-53-26705?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 0,
+                          "label": 0,
+                          "source_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-02-53-26705",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-05-22-10-45617?imageView2/2/w/600"
+                      ],
+                      "type": "image"
+                  }
+              ],
+              "category_banner_data": []
+          },
+          {
+              "category_id": 2,
+              "category_data": [
+                  {
+                      "news_id": 27164,
+                      "account_id": 33740,
+                      "video_path": "22",
+                      "video_image": "",
+                      "read_num": 1567,
+                      "title": "99.9-刑事专门律师",
+                      "create_time": "1天前",
+                      "classType": 22,
+                      "class_type": 22,
+                      "account_data": {
+                          "uid": 33740,
+                          "username": "猪猪字幕组",
+                          "phone": "19900004819",
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-07-14 14:41:06",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-14-14-41-06488?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 1,
+                          "label": 1,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-14-14-41-06488",
+                          "is_manager": 1
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/default_avatar.jpg?imageView2/2/w/600"
+                      ],
+                      "tv_num": 9,
+                      "type": "video"
+                  },
+                  {
+                      "news_id": 26992,
+                      "account_id": 33546,
+                      "video_path": "http://video.jiumaojia.com/001r3Au1jx07by3eUoJW010f11004nXo0k01.mp4",
+                      "video_image": "http://cdnsocial.jiumaojia.com/2017-09-01-14-21-05587",
+                      "read_num": 1790,
+                      "title": "太贺和臼田麻美主演漫改电影「南瓜与美乃滋」预告片公开",
+                      "create_time": "4天前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "account_data": {
+                          "uid": 33546,
                           "username": "mikiiii酱",
                           "phone": "19900001694",
                           "country": "",
                           "pro": "",
                           "area": "",
-                          "sex": "2",
+                          "sex": 2,
                           "address": "",
                           "register_time": "2017-07-13 16:20:18",
                           "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
                           "sinature": "",
-                          "is_member": "1",
+                          "is_member": 1,
                           "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
                           "is_manager": 0
                       },
                       "image": [
-                          "http://cdnsocial.jiumaojia.com/default_avatar.jpg?imageView2/2/w/600"
+                          "http://cdnsocial.jiumaojia.com/2017-09-01-14-19-05796?imageView2/2/w/600"
                       ],
                       "type": "video"
+                  }
+              ],
+              "category_banner_data": [
+                  {
+                      "type": 2,
+                      "value": 2,
+                      "image_path": "http://cdnsocial.jiumaojia.com/2017-08-29-17-52-50109",
+                      "video_path": "",
+                      "url": "http://appp.jiumaojia.com/Home/Tv/ac",
+                      "news_id": null
+                  },
+                  {
+                      "type": 2,
+                      "value": 2,
+                      "image_path": "http://cdnsocial.jiumaojia.com/2017-08-29-17-52-12257",
+                      "video_path": "",
+                      "url": "http://appp.jiumaojia.com/Home/Tv/ac",
+                      "news_id": null
                   }
               ]
           },
           {
-              "category_id": 4,
+              "category_id": 5,
               "category_data": [
                   {
-                      "news_id": "25183",
-                      "account_id": "488",
-                      "read_num": "636470",
-                      "title": "【重大告知】Encore 1.2.2 新版使用攻略！",
-                      "create_time": "1天前",
-                      "label_id": "1",
+                      "id": 1,
+                      "title": "测试1内容2017-09-06 13:51:12"
+                  },
+                  {
+                      "id": 2,
+                      "title": "测试2内容2017-09-06 13:51:12"
+                  },
+                  {
+                      "id": 3,
+                      "title": "测试3内容2017-09-06 13:51:12"
+                  },
+                  {
+                      "id": 4,
+                      "title": "测试4内容2017-09-06 13:51:12"
+                  }
+              ],
+              "category_banner_data": []
+          },
+          {
+              "category_id": 7,
+              "category_data": [
+                  {
+                      "id": 1,
+                      "title": "测试1内容2017-09-06 13:51:12"
+                  },
+                  {
+                      "id": 2,
+                      "title": "测试2内容2017-09-06 13:51:12"
+                  },
+                  {
+                      "id": 3,
+                      "title": "测试3内容2017-09-06 13:51:12"
+                  },
+                  {
+                      "id": 4,
+                      "title": "测试4内容2017-09-06 13:51:12"
+                  }
+              ],
+              "category_banner_data": []
+          },
+          {
+              "category_id": 9,
+              "category_data": [
+                  {
+                      "news_id": 27221,
+                      "account_id": 106699,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 11510,
+                      "title": "生田斗真主演 《人生密密缝》（他们认真编织的时候）剧情简介",
+                      "create_time": "3小时前",
+                      "classType": 0,
+                      "class_type": 0,
                       "account_data": {
-                          "uid": "488",
-                          "username": "Encore日娱酱",
+                          "uid": 106699,
+                          "username": "encore阿三",
+                          "phone": "9082648891",
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 0,
+                          "address": "",
+                          "register_time": "2017-08-11 13:27:12",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 0,
+                          "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-06-09-52-46707?imageView2/2/w/600"
+                      ],
+                      "type": "image"
+                  },
+                  {
+                      "news_id": 27213,
+                      "account_id": 259,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 1853,
+                      "title": "玉城Tina：真的“yagitama”",
+                      "create_time": "14小时前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "account_data": {
+                          "uid": 259,
+                          "username": "玉城Tina",
                           "phone": 1,
                           "country": "",
                           "pro": "",
                           "area": "",
-                          "sex": "1",
+                          "sex": 2,
                           "address": "",
-                          "register_time": "2017-04-10 15:26:08",
-                          "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
+                          "register_time": "2017-03-24 07:16:43",
+                          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-07-25744?imageView2/2/w/100",
                           "sinature": "",
-                          "is_member": "1",
+                          "is_member": 0,
                           "label": 0,
+                          "source_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-07-25744",
                           "is_manager": 0
                       },
                       "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-04-20-07-34716?imageView2/2/w/600"
+                          "http://cdnsocial.jiumaojia.com/2017-09-05-23-18-09457?imageView2/2/w/600"
                       ],
                       "type": "image"
                   },
                   {
-                      "news_id": "25187",
-                      "account_id": "33546",
-                      "read_num": "14258",
-                      "title": "北川景子恐怖初挑战「鬼屋绝对不回去」与志尊淳&和川栄李奈共演",
-                      "create_time": "1天前",
-                      "label_id": "3",
+                      "news_id": 26940,
+                      "account_id": 33546,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 6110,
+                      "title": "元アイドリング队长远藤舞，将于年内从艺能界引退",
+                      "create_time": "5天前",
+                      "classType": 0,
+                      "class_type": 0,
                       "account_data": {
-                          "uid": "33546",
+                          "uid": 33546,
                           "username": "mikiiii酱",
                           "phone": "19900001694",
                           "country": "",
                           "pro": "",
                           "area": "",
-                          "sex": "2",
+                          "sex": 2,
                           "address": "",
                           "register_time": "2017-07-13 16:20:18",
                           "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
                           "sinature": "",
-                          "is_member": "1",
+                          "is_member": 1,
                           "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
                           "is_manager": 0
                       },
                       "image": [
-                          "http://cdnsocial.jiumaojia.com/2017-08-05-11-08-18765?imageView2/2/w/600"
+                          "http://cdnsocial.jiumaojia.com/2017-08-31-15-44-07659?imageView2/2/w/600"
                       ],
                       "type": "image"
-                  },
-                  {
-                      "news_id": "25182",
-                      "account_id": "33546",
-                      "video_path": "http://video.jiumaojia.com/001ZUXv2lx07dbao5k9W010f01009rhW0k01.mp4",
-                      "video_image": "http://cdnsocial.jiumaojia.com/2017-08-04-20-05-14635",
-                      "read_num": "11901",
-                      "title": "乃木坂46新单「逃げ水」初回盤的特典映像公开 ，「乃木恋リアル」等收录",
-                      "create_time": "1天前",
-                      "label_id": "3",
-                      "account_data": {
-                          "uid": "33546",
-                          "username": "mikiiii酱",
-                          "phone": "19900001694",
-                          "country": "",
-                          "pro": "",
-                          "area": "",
-                          "sex": "2",
-                          "address": "",
-                          "register_time": "2017-07-13 16:20:18",
-                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
-                          "sinature": "",
-                          "is_member": "1",
-                          "label": 0,
-                          "is_manager": 0
-                      },
-                      "image": [
-                          "http://cdnsocial.jiumaojia.com/default_avatar.jpg?imageView2/2/w/600"
-                      ],
-                      "type": "video"
                   }
-              ]
+              ],
+              "category_banner_data": []
           }
       ]
   }
