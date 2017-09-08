@@ -37,14 +37,14 @@
                   "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-03-09-25-20775?imageView2/2/w/100"
               }
           ],
-          "data5": [//字幕
+          "data5": [//字幕组
               {
                   "account_id": 106699,
                   "account_username": "encore阿三",
                   "account_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100"
               }
           ],
-          "news_data": [
+          "news_data": [//速报资讯
               {
                   "account_data": {
                       "account_id": 491,
