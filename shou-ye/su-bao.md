@@ -2,11 +2,7 @@
 
 * 提交方式：POST
 
-* 接口参数：
-
-  * category\_id：1为综合，2为视频，3为Encore号，4为榜单
-
-  * page：页码（第一页的页码为1）
+* 接口参数：暂无
 
 * 接口返回：
 
@@ -85,7 +81,7 @@
                       "type": "image"
                   }
               ],
-              "category_banner_data": []
+              "category_banner_data": []//该类别下的banner数据，若没有数据则不显示
           },
           {
               "category_id": 3,
