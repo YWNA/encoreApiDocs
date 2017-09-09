@@ -21,7 +21,6 @@
   * [Banner](shou-ye/banner.md)
   * [速报类别](shou-ye/su-bao-lei-bie.md)
   * [速报首页](shou-ye/su-bao.md)
-    * [速报首页-新版](shou-ye/su-bao/su-bao-shou-9875-130.md)
     * [字幕组（更多）](shou-ye/su-bao/su-du-shou-9875-zi-mu-zu.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
