@@ -15,67 +15,302 @@
       "code": 1,
       "data": [
           {
-              "id": 20187,
-              "news_id": 20187,
-              "section_id": 488,
-              "title": "丝般柔顺丨九头身的菜菜绪配上丝般柔顺的黑发又是一阵狂拽酷呢！",
-              "content": "菜菜緒出演 P&amp;G 潘婷 TV CM 【もう戻れない 菜々緒さん篇】",
-              "category_id": 0,//速报来源编号
-              "create_time": 1496713815000,//创建时间
-              "category_category_id": 1,//速报类别编号
-              "video_path": "http://video.jiumaojia.com/001NFMBcjx07bEsFJy6Q010f11003u100k01.mp4",
-              "read_num": 1834,//阅读数量
-              "source_image":"http://om4mfzope.bkt.clouddn.com/2017-06-06-09-40-44415?imageView2/2/w/600",//速报来源图片
-              "source_id":1,//速报来源编号
-              "image": [ //速报相关图片
-                  "http://om4mfzope.bkt.clouddn.com/2017-06-06-09-40-44415?imageView2/2/w/600"
+              "category_id": 1,
+              "category_name": "速报",//类别名称
+              "category_data": [
+                  {
+                      "news_id": 26992,
+                      "account_id": 33546,
+                      "video_path": "http://video.jiumaojia.com/001r3Au1jx07by3eUoJW010f11004nXo0k01.mp4",
+                      "video_image": "http://cdnsocial.jiumaojia.com/2017-09-01-14-21-05587",
+                      "read_num": 3048,
+                      "title": "太贺和臼田麻美主演漫改电影「南瓜与美乃滋」预告片公开",
+                      "create_time": "7天前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "is_tv": 0,
+                      "account_data": {
+                          "uid": 33546,
+                          "username": "mikiiii酱",
+                          "phone": "19900001694",
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-07-13 16:20:18",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 1,
+                          "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-01-14-19-05796?imageView2/2/w/600"
+                      ],
+                      "type": "video"
+                  },
+                  {
+                      "news_id": 26940,
+                      "account_id": 33546,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 7211,
+                      "title": "元アイドリング队长远藤舞，将于年内从艺能界引退",
+                      "create_time": "8天前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "is_tv": 0,
+                      "account_data": {
+                          "uid": 33546,
+                          "username": "mikiiii酱",
+                          "phone": "19900001694",
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-07-13 16:20:18",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 1,
+                          "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-08-31-15-44-07659?imageView2/2/w/600"
+                      ],
+                      "type": "image"
+                  }
               ],
-              "account_data": { //速报发布者用户信息
-                  "uid": 488,
-                  "username": "Encore日娱酱",
-                  "phone": 1,
-                  "sex": 1,
-                  "address": "",
-                  "register_time": "2017-04-10 15:26:08",
-                  "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
-                  "sinature": "",
-                  "is_member": 0,
-                  "is_manager": 0
-              },
-              "type": "video", //速报类别
-              "comments_num": 0, //评论数量
-              "praise_num": 0, //点赞数量
-              "if_praise": 0 //当前用户是否对该条速报点赞
-              "is_tv": 1 //是否是TV剧集，1则是，0则否
+              "category_banner_data": []
           },
           {
-              "id": 20187,
-              "section_id": 488,
-              "title": "丝般柔顺丨九头身的菜菜绪配上丝般柔顺的黑发又是一阵狂拽酷呢！",
-              "content": "菜菜緒出演 P&amp;G 潘婷 TV CM 【もう戻れない 菜々緒さん篇】",
-              "category_id": 0,
-              "create_time": 1496713815000,
-              "category_category_id": 1,
-              "video_path": "http://video.jiumaojia.com/001NFMBcjx07bEsFJy6Q010f11003u100k01.mp4",
-              "read_num": 1834,
-              "Id": 20187,
-              "image": [
-                  "http://om4mfzope.bkt.clouddn.com/2017-06-06-09-40-44415?imageView2/2/w/600"
+              "category_id": 3,
+              "category_name": "剧评",
+              "category_data": [
+                  {
+                      "news_id": 27208,
+                      "account_id": 90,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 12193,
+                      "title": "永野芽郁：《是我们做的》第八话，应该是很有冲击性的",
+                      "create_time": "3天前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "is_tv": 0,
+                      "account_data": {
+                          "uid": 90,
+                          "username": "永野芽郁",
+                          "phone": 1,
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-03-24 07:16:43",
+                          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-02-53-26705?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 0,
+                          "label": 0,
+                          "source_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-02-53-26705",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-05-22-10-45617?imageView2/2/w/600"
+                      ],
+                      "type": "image"
+                  }
               ],
-              "account_data": {
-                  "uid": 488,
-                  "username": "Encore日娱酱",
-                  "phone": 1,
-                  "sex": 1,
-                  "address": "",
-                  "register_time": "2017-04-10 15:26:08",
-                  "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
-                  "sinature": ""
-              },
-              "type": "video",
-              "comments_num": 0,
-              "praise_num": 0,
-              "if_praise": 0
+              "category_banner_data": []
+          },
+          {
+              "category_id": 2,
+              "category_name": "资源",
+              "category_data": [
+                  {
+                      "news_id": 27164,
+                      "account_id": 488,
+                      "video_path": "22",
+                      "video_image": "",
+                      "read_num": 2290,
+                      "title": "99.9-刑事专门律师",
+                      "create_time": "3天前",
+                      "classType": 22,
+                      "class_type": 22,
+                      "is_tv": 1,
+                      "account_data": {
+                          "uid": 488,
+                          "username": "Encore日娱酱",
+                          "phone": 1,
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 1,
+                          "address": "",
+                          "register_time": "2017-04-10 15:26:08",
+                          "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 1,
+                          "label": 0,
+                          "source_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-11-13-47-47518",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-06-17-57-46624?imageView2/2/w/600"
+                      ],
+                      "tv_num": 9,
+                      "type": "video"
+                  },
+                  {
+                      "news_id": 26992,
+                      "account_id": 33546,
+                      "video_path": "http://video.jiumaojia.com/001r3Au1jx07by3eUoJW010f11004nXo0k01.mp4",
+                      "video_image": "http://cdnsocial.jiumaojia.com/2017-09-01-14-21-05587",
+                      "read_num": 3048,
+                      "title": "太贺和臼田麻美主演漫改电影「南瓜与美乃滋」预告片公开",
+                      "create_time": "7天前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "is_tv": 0,
+                      "account_data": {
+                          "uid": 33546,
+                          "username": "mikiiii酱",
+                          "phone": "19900001694",
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-07-13 16:20:18",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 1,
+                          "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-09-01-14-19-05796?imageView2/2/w/600"
+                      ],
+                      "type": "video"
+                  }
+              ],
+              "category_banner_data": [
+                  {
+                      "type": 2,
+                      "value": 2,
+                      "image_path": "http://cdnsocial.jiumaojia.com/2017-08-29-17-52-50109",
+                      "video_path": "",
+                      "url": "http://appp.jiumaojia.com/Home/Tv/ac",
+                      "news_id": null
+                  },
+                  {
+                      "type": 2,
+                      "value": 2,
+                      "image_path": "http://cdnsocial.jiumaojia.com/2017-08-29-17-52-12257",
+                      "video_path": "",
+                      "url": "http://appp.jiumaojia.com/Home/Tv/ac",
+                      "news_id": null
+                  }
+              ]
+          },
+          {
+              "category_id": 5,
+              "category_name": "周边",
+              "category_data": [
+                  {
+                      "id": 1,
+                      "post_title": "测试1内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  },
+                  {
+                      "id": 2,
+                      "post_title": "测试2内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  },
+                  {
+                      "id": 3,
+                      "post_title": "测试3内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  },
+                  {
+                      "id": 4,
+                      "post_title": "测试4内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  }
+              ],
+              "category_banner_data": []
+          },
+          {
+              "category_id": 7,
+              "category_name": "扩列",
+              "category_data": [
+                  {
+                      "id": 1,
+                      "post_title": "测试1内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  },
+                  {
+                      "id": 2,
+                      "post_title": "测试2内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  },
+                  {
+                      "id": 3,
+                      "post_title": "测试3内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  },
+                  {
+                      "id": 4,
+                      "post_title": "测试4内容2017-09-09 11:19:27",
+                      "create_time": "0秒前"
+                  }
+              ],
+              "category_banner_data": []
+          },
+          {
+              "category_id": 9,
+              "category_name": "字幕组",
+              "category_data": [
+                  {
+                      "news_id": 26940,
+                      "account_id": 33546,
+                      "video_path": "",
+                      "video_image": "",
+                      "read_num": 7211,
+                      "title": "元アイドリング队长远藤舞，将于年内从艺能界引退",
+                      "create_time": "8天前",
+                      "classType": 0,
+                      "class_type": 0,
+                      "is_tv": 0,
+                      "account_data": {
+                          "uid": 33546,
+                          "username": "mikiiii酱",
+                          "phone": "19900001694",
+                          "country": "",
+                          "pro": "",
+                          "area": "",
+                          "sex": 2,
+                          "address": "",
+                          "register_time": "2017-07-13 16:20:18",
+                          "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
+                          "sinature": "",
+                          "is_member": 1,
+                          "label": 0,
+                          "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
+                          "is_manager": 0
+                      },
+                      "image": [
+                          "http://cdnsocial.jiumaojia.com/2017-08-31-15-44-07659?imageView2/2/w/600"
+                      ],
+                      "type": "image"
+                  }
+              ],
+              "category_banner_data": []
           }
       ]
   }
