@@ -33,7 +33,7 @@
   * [圈子选择](quan-zi/quan-zi-xuan-ze.md)
   * [分类下的圈子](quan-zi/fen-lei-xia-de-quan-zi.md)
   * [添加圈子-VI142](quan-zi/tian-jia-quan-5b50-vi142.md)
-* [动态](dong-tai.md)
+* [动态帖子](dong-tai.md)
   * [动态详情](quan-zi/dong-tai-xiang-qing.md)
   * [发布动态](fa-bu-dong-tai.md)
   * [动态删除](dong-tai-shan-chu.md)
