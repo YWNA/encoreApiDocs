@@ -50,7 +50,7 @@
 * [赞](dian-zan.md)
   * [收到动态的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
   * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
-* [关注](guan-zhu2.md)
+* [关注（用户或者圈子）](guan-zhu2.md)
   * [关注或取关](guan-zhu/guan-zhu-quan-zi-huo-qu-guan-quan-zi.md)
 * [评论](ping-lun.md)
   * [评论及其回复](ping-lun/ping-lun-ji-qi-hui-fu.md)
