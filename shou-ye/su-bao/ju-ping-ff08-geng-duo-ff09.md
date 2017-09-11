@@ -18,225 +18,180 @@
   {
       "code": 1,
       "data": {
-          "data3": [//UPer主数据
+          "news_data": [
               {
-                  "account_id": 491,
-                  "account_username": "鼹鼠不是硕鼠",
-                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-57-02374?imageView2/2/w/100"
-              },
-              {
-                  "account_id": 33546,
-                  "account_username": "mikiiii酱",
-                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100"
-              },
-              {
-                  "account_id": 492,
-                  "account_username": "亚森罗宾",
-                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-03-09-25-20775?imageView2/2/w/100"
-              }
-          ],
-          "data5": [//字幕组
-              {
+                  "news_id": 27218,
                   "account_id": 106699,
-                  "account_username": "encore阿三",
-                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100"
+                  "video_path": "",
+                  "video_image": "",
+                  "read_num": 31722,
+                  "title": "Code blue 3第八集剧情简介",
+                  "create_time": "4天前",
+                  "classType": 0,
+                  "class_type": 0,
+                  "is_tv": 0,
+                  "account_data": {
+                      "uid": 106699,
+                      "username": "encore阿三",
+                      "phone": "9082648891",
+                      "country": "",
+                      "pro": "",
+                      "area": "",
+                      "sex": 0,
+                      "address": "",
+                      "register_time": "2017-08-11 13:27:12",
+                      "avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100",
+                      "sinature": "",
+                      "is_member": 0,
+                      "label": 0,
+                      "source_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243",
+                      "is_manager": 0
+                  },
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/2017-09-06-09-02-07769?imageView2/2/w/600"
+                  ],
+                  "type": "image"
+              },
+              {
+                  "news_id": 27221,
+                  "account_id": 106699,
+                  "video_path": "",
+                  "video_image": "",
+                  "read_num": 52864,
+                  "title": "生田斗真主演 《人生密密缝》（他们认真编织的时候）剧情简介",
+                  "create_time": "5天前",
+                  "classType": 0,
+                  "class_type": 0,
+                  "is_tv": 0,
+                  "account_data": {
+                      "uid": 106699,
+                      "username": "encore阿三",
+                      "phone": "9082648891",
+                      "country": "",
+                      "pro": "",
+                      "area": "",
+                      "sex": 0,
+                      "address": "",
+                      "register_time": "2017-08-11 13:27:12",
+                      "avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243?imageView2/2/w/100",
+                      "sinature": "",
+                      "is_member": 0,
+                      "label": 0,
+                      "source_avatar": "http://cdnsocial.jiumaojia.com/2017-09-01-23-09-40243",
+                      "is_manager": 0
+                  },
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/2017-09-06-09-52-46707?imageView2/2/w/600"
+                  ],
+                  "type": "image"
+              },
+              {
+                  "news_id": 27213,
+                  "account_id": 259,
+                  "video_path": "",
+                  "video_image": "",
+                  "read_num": 5024,
+                  "title": "玉城Tina：真的“yagitama”",
+                  "create_time": "5天前",
+                  "classType": 0,
+                  "class_type": 0,
+                  "is_tv": 0,
+                  "account_data": {
+                      "uid": 259,
+                      "username": "玉城Tina",
+                      "phone": 1,
+                      "country": "",
+                      "pro": "",
+                      "area": "",
+                      "sex": 2,
+                      "address": "",
+                      "register_time": "2017-03-24 07:16:43",
+                      "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-07-25744?imageView2/2/w/100",
+                      "sinature": "",
+                      "is_member": 0,
+                      "label": 0,
+                      "source_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-07-25744",
+                      "is_manager": 0
+                  },
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/2017-09-05-23-18-09457?imageView2/2/w/600"
+                  ],
+                  "type": "image"
+              },
+              {
+                  "news_id": 27208,
+                  "account_id": 90,
+                  "video_path": "",
+                  "video_image": "",
+                  "read_num": 16304,
+                  "title": "永野芽郁：《是我们做的》第八话，应该是很有冲击性的",
+                  "create_time": "5天前",
+                  "classType": 0,
+                  "class_type": 0,
+                  "is_tv": 0,
+                  "account_data": {
+                      "uid": 90,
+                      "username": "永野芽郁",
+                      "phone": 1,
+                      "country": "",
+                      "pro": "",
+                      "area": "",
+                      "sex": 2,
+                      "address": "",
+                      "register_time": "2017-03-24 07:16:43",
+                      "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-02-53-26705?imageView2/2/w/100",
+                      "sinature": "",
+                      "is_member": 0,
+                      "label": 0,
+                      "source_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-02-53-26705",
+                      "is_manager": 0
+                  },
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/2017-09-05-22-10-45617?imageView2/2/w/600"
+                  ],
+                  "type": "image"
               }
           ],
-          "news_data": [//速报资讯
+          "account_data": [
               {
-                  "account_data": {
-                      "account_id": 491,
-                      "account_username": "鼹鼠不是硕鼠",
-                      "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-57-02374?imageView2/2/w/100"
-                  },
-                  "news_data": [
-                      {
-                          "news_id": 25635,
-                          "account_id": 491,
-                          "video_path": "1",
-                          "video_image": "http://cdnsocial.jiumaojia.com/2017-08-12-16-29-24439",
-                          "read_num": 4836,
-                          "title": "警视厅搜查一课长 第2季",
-                          "create_time": "9天前",
-                          "classType": 22,
-                          "class_type": 22,
-                          "is_tv": 1,
-                          "account_data": {
-                              "uid": 491,
-                              "username": "鼹鼠不是硕鼠",
-                              "phone": 1,
-                              "country": "",
-                              "pro": "",
-                              "area": "",
-                              "sex": 1,
-                              "address": "",
-                              "register_time": "2017-04-11 15:22:04",
-                              "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-57-02374?imageView2/2/w/100",
-                              "sinature": "",
-                              "is_member": 0,
-                              "label": 0,
-                              "source_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-57-02374",
-                              "is_manager": 0
-                          },
-                          "image": [
-                              "http://cdnsocial.jiumaojia.com/2017-08-12-16-29-20626?imageView2/2/w/600"
-                          ],
-                          "tv_num": 10,
-                          "type": "video"
-                      },
-                      {
-                          "news_id": 25563,
-                          "account_id": 491,
-                          "video_path": "111",
-                          "video_image": "http://cdnsocial.jiumaojia.com/2017-08-11-13-34-35264",
-                          "read_num": 8197,
-                          "title": "爱情败犬向前冲",
-                          "create_time": "9天前",
-                          "classType": 22,
-                          "class_type": 22,
-                          "is_tv": 1,
-                          "account_data": {
-                              "uid": 491,
-                              "username": "鼹鼠不是硕鼠",
-                              "phone": 1,
-                              "country": "",
-                              "pro": "",
-                              "area": "",
-                              "sex": 1,
-                              "address": "",
-                              "register_time": "2017-04-11 15:22:04",
-                              "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-57-02374?imageView2/2/w/100",
-                              "sinature": "",
-                              "is_member": 0,
-                              "label": 0,
-                              "source_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-10-19-57-02374",
-                              "is_manager": 0
-                          },
-                          "image": [
-                              "http://cdnsocial.jiumaojia.com/2017-08-11-13-34-26758?imageView2/2/w/600"
-                          ],
-                          "tv_num": 12,
-                          "type": "video"
-                      }
-                  ]
+                  "account_id": 509,
+                  "account_username": "周五",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-08-24-14-48-46427?imageView2/2/w/100"
               },
               {
-                  "account_data": {
-                      "account_id": 33546,
-                      "account_username": "mikiiii酱",
-                      "account_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100"
-                  },
-                  "news_data": [
-                      {
-                          "news_id": 26992,
-                          "account_id": 33546,
-                          "video_path": "http://video.jiumaojia.com/001r3Au1jx07by3eUoJW010f11004nXo0k01.mp4",
-                          "video_image": "http://cdnsocial.jiumaojia.com/2017-09-01-14-21-05587",
-                          "read_num": 1941,
-                          "title": "太贺和臼田麻美主演漫改电影「南瓜与美乃滋」预告片公开",
-                          "create_time": "5天前",
-                          "classType": 0,
-                          "class_type": 0,
-                          "is_tv": 0,
-                          "account_data": {
-                              "uid": 33546,
-                              "username": "mikiiii酱",
-                              "phone": "19900001694",
-                              "country": "",
-                              "pro": "",
-                              "area": "",
-                              "sex": 2,
-                              "address": "",
-                              "register_time": "2017-07-13 16:20:18",
-                              "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
-                              "sinature": "",
-                              "is_member": 1,
-                              "label": 0,
-                              "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
-                              "is_manager": 0
-                          },
-                          "image": [
-                              "http://cdnsocial.jiumaojia.com/2017-09-01-14-19-05796?imageView2/2/w/600"
-                          ],
-                          "type": "video"
-                      },
-                      {
-                          "news_id": 26940,
-                          "account_id": 33546,
-                          "video_path": "",
-                          "video_image": "",
-                          "read_num": 6341,
-                          "title": "元アイドリング队长远藤舞，将于年内从艺能界引退",
-                          "create_time": "6天前",
-                          "classType": 0,
-                          "class_type": 0,
-                          "is_tv": 0,
-                          "account_data": {
-                              "uid": 33546,
-                              "username": "mikiiii酱",
-                              "phone": "19900001694",
-                              "country": "",
-                              "pro": "",
-                              "area": "",
-                              "sex": 2,
-                              "address": "",
-                              "register_time": "2017-07-13 16:20:18",
-                              "avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593?imageView2/2/w/100",
-                              "sinature": "",
-                              "is_member": 1,
-                              "label": 0,
-                              "source_avatar": "http://cdnsocial.jiumaojia.com/2017-07-13-16-20-18593",
-                              "is_manager": 0
-                          },
-                          "image": [
-                              "http://cdnsocial.jiumaojia.com/2017-08-31-15-44-07659?imageView2/2/w/600"
-                          ],
-                          "type": "image"
-                      }
-                  ]
+                  "account_id": 519,
+                  "account_username": "山田凉介的女朋友",
+                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-17-20-51-07653?imageView2/2/w/100"
               },
               {
-                  "account_data": {
-                      "account_id": 492,
-                      "account_username": "亚森罗宾",
-                      "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-03-09-25-20775?imageView2/2/w/100"
-                  },
-                  "news_data": [
-                      {
-                          "news_id": 25142,
-                          "account_id": 492,
-                          "video_path": "222",
-                          "video_image": "http://cdnsocial.jiumaojia.com/2017-08-04-15-09-10638",
-                          "read_num": 85557,
-                          "title": "就是我们做的 更新至第8集",
-                          "create_time": "6小时前",
-                          "classType": 21,
-                          "class_type": 21,
-                          "is_tv": 1,
-                          "account_data": {
-                              "uid": 492,
-                              "username": "亚森罗宾",
-                              "phone": 1,
-                              "country": "",
-                              "pro": "",
-                              "area": "",
-                              "sex": 2,
-                              "address": "",
-                              "register_time": "2017-04-12 17:10:17",
-                              "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-03-09-25-20775?imageView2/2/w/100",
-                              "sinature": "",
-                              "is_member": 0,
-                              "label": 0,
-                              "source_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-03-09-25-20775",
-                              "is_manager": 0
-                          },
-                          "image": [
-                              "http://cdnsocial.jiumaojia.com/2017-08-04-16-48-04598?imageView2/2/w/600"
-                          ],
-                          "tv_num": 8,
-                          "type": "video"
-                      }
-                  ]
+                  "account_id": 548,
+                  "account_username": "salt",
+                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-17-21-10-47383?imageView2/2/w/100"
+              },
+              {
+                  "account_id": 570,
+                  "account_username": "桃子酸奶tao",
+                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-17-23-09-56848?imageView2/2/w/100"
+              },
+              {
+                  "account_id": 571,
+                  "account_username": "244快来帮我编辫子",
+                  "account_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-17-23-31-10879?imageView2/2/w/100"
+              },
+              {
+                  "account_id": 854,
+                  "account_username": "Sakurai sho",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-07-19-01-02-51443?imageView2/2/w/100"
+              },
+              {
+                  "account_id": 863,
+                  "account_username": "高柳明音",
+                  "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-05-25-14-11-02767?imageView2/2/w/100"
+              },
+              {
+                  "account_id": 876,
+                  "account_username": "杏玖",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-07-18-17-56-51148?imageView2/2/w/100"
               }
           ]
       }
