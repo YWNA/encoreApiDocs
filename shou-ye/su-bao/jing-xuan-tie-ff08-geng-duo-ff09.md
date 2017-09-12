@@ -18,7 +18,7 @@
               "id": 10386,
               "title": "",
               "content": "《胰脏》破30亿啦",
-              "content2": null,
+              "content2": null,//忽略
               "read_num": 0,
               "account_username": "just金石為锎",
               "account_avatar": "http://cdnsocial.jiumaojia.com/2017-07-23-19-07-57329?imageView2/2/w/100",
