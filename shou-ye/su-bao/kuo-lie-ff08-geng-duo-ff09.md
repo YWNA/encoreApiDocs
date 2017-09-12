@@ -17,12 +17,7 @@
           {
               "id": "10386",
               "title": "",
-              "content": [
-                  {
-                      "content": "《胰脏》破30亿啦",
-                      "text": "《胰脏》破30亿啦"
-                  }
-              ],
+              "content": 'd',
               "content2": null,
               "read_num": "0",
               "account_username": "just金石為锎",
