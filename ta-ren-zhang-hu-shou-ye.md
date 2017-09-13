@@ -6,7 +6,7 @@
 
   1.account\_id：用户的编号
 
-  2.post\__page和news\__page
+  2.post\_\_page和news\_\_page
 
 * 接口返回：
 
@@ -72,7 +72,75 @@
                   "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-04-19121"
               }
           ],
-          "news_data": [],
+          "news_data": [
+              {
+                  "news_id": 67,
+                  "account_id": 30093,
+                  "video_path": "",
+                  "video_image": "",
+                  "read_num": 5908,
+                  "title": "【Encore pedia】生田斗真",
+                  "create_time": "164天前",
+                  "classType": 0,
+                  "class_type": 0,
+                  "is_tv": 0,
+                  "account_data": {
+                      "uid": 30093,
+                      "username": "程序员",
+                      "phone": "18142005882",
+                      "country": "",
+                      "pro": "",
+                      "area": "",
+                      "sex": 2,
+                      "address": "",
+                      "register_time": "2017-06-12 17:19:26",
+                      "avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                      "sinature": "encore",
+                      "is_member": 0,
+                      "label": 0,
+                      "source_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093",
+                      "is_manager": 0
+                  },
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/default_avatar.jpg?imageView2/2/w/600"
+                  ],
+                  "type": "image"
+              },
+              {
+                  "news_id": 64,
+                  "account_id": 30093,
+                  "video_path": "",
+                  "video_image": "",
+                  "read_num": 2601,
+                  "title": "2017-樱花满开之预告",
+                  "create_time": "164天前",
+                  "classType": 0,
+                  "class_type": 0,
+                  "is_tv": 0,
+                  "account_data": {
+                      "uid": 30093,
+                      "username": "程序员",
+                      "phone": "18142005882",
+                      "country": "",
+                      "pro": "",
+                      "area": "",
+                      "sex": 2,
+                      "address": "",
+                      "register_time": "2017-06-12 17:19:26",
+                      "avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                      "sinature": "encore",
+                      "is_member": 0,
+                      "label": 0,
+                      "source_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093",
+                      "is_manager": 0
+                  },
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/default_avatar.jpg?imageView2/2/w/600"
+                  ],
+                  "type": "image"
+              }
+          ],
+
           "post_data": [
               {
                   "post_id": 10397,
