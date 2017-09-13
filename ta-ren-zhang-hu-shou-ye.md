@@ -6,8 +6,7 @@
 
   1.account\_id：用户的编号
 
-  2.page：页码  
-  3.type：news为速报资讯，newsr为资源，post为动态帖子
+  2.post\__page和news\__page
 
 * 接口返回：
 
