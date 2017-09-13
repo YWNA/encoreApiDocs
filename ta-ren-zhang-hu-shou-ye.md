@@ -6,7 +6,8 @@
 
   1.account\_id：用户的编号
 
-  2.page：页码
+  2.page：页码  
+  3.type：news为速报资讯，newsr为资源，post为动态帖子
 
 * 接口返回：
 
@@ -14,56 +15,188 @@
   {
       "code": 1,
       "data": {
-          "uid": 544,
-          "username": "小白团子",
-          "phone": "18399563090",
-          "sex": 0,
-          "address": "",
-          "register_time": "2017-05-17 20:58:29",
-          "avatar": "http://onz6odc5j.bkt.clouddn.com/2017-05-17-21-01-32221?imageView2/2/w/100",
-          "sinature": "",
-          "is_own": 0,
-          "is_follow": 0,
-          "fans_num": 2,
-          "follow_num": 2,
-          "posts_num": 1,
-          "posts": [
+          "account_data": {
+              "id": 30093,
+              "username": "程序员",
+              "phone": "18142005882",
+              "sex": 2,
+              "address": "",
+              "register_time": "2017-06-12 17:19:26",
+              "avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+              "sinature": "encore",
+              "is_follow": 0,
+              "fans_num": 1,
+              "follow_num": 3,
+              "posts_num": 13,
+              "news_num": 13,
+              "role_data": []
+          },
+          "section_data": [
               {
-                  "post_id": 1562,
-                  "section_id": 180,
-                  "content": "打个卡试试",
-                  "create_time": "2017-06-24 17:37:49",
-                  "read_num": 2,
-                  "account_id": 31611,
-                  "account_username": "栗欲熏心",
-                  "account_avatar": "http://om4mfzope.bkt.clouddn.com/default_avatar.jpg?imageView2/2/w/100",
-                  "comments_num": 0,
-                  "praise_num": 0,
-                  "if_praise": 0,
-                  "image": [
-                      "http://cdnsocial.jiumaojia.com/2017-06-24-17-37-41970"
-                  ]
-              }
-          ],
-          "posts_num": 21
-          "sections": [
+                  "section_id": 18,
+                  "section_name": "AKB48",
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-33-36759"
+              },
               {
-                  "section_id": 10,
-                  "section_name": "KAT-TUN",
-                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-15-15383?imageView2/2/w/100"
+                  "section_id": 423,
+                  "section_name": "活动圈",
+                  "section_avatar": "http://cdnsocial.jiumaojia.com/2017-07-06-15-13-58906"
+              },
+              {
+                  "section_id": 516,
+                  "section_name": "二宫和也",
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-05-19-16-38-03728"
+              },
+              {
+                  "section_id": 38,
+                  "section_name": "石原里美",
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-06-46358"
+              },
+              {
+                  "section_id": 6,
+                  "section_name": "岚",
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-03-04482"
+              },
+              {
+                  "section_id": 95,
+                  "section_name": "小嶋阳菜",
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-26-03-07-22666"
+              },
+              {
+                  "section_id": 11,
+                  "section_name": "山下智久",
+                  "section_avatar": "http://cdnsocial.jiumaojia.com/2017-07-24-16-35-12932"
               },
               {
                   "section_id": 111,
                   "section_name": "新垣结衣",
-                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-04-19121?imageView2/2/w/100"
-              }
-              {
-                  "section_id": 11,
-                  "section_name": "山下智久",
-                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-10-17-18189?imageView2/2/w/100"
+                  "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-04-19121"
               }
           ],
-          "sections_num": 64
+          "news_data": [],
+          "post_data": [
+              {
+                  "post_id": 10397,
+                  "title": "",
+                  "content": "测试电文",
+                  "content2": "a:3xSmv14pGE1Ojn1um8dsrjJAQyB\";}i:1;a:1:{s:7:\"content\";s:12:\"测试电文\";}i:2;a:1:{s:5:\"image\";s:59:\"http://cdnsocial.jiumaojia.com/Fh2e5mWKxp41f1OBgHmcoLe-u4NH\";}}",
+                  "create_time": "20小时前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/FnxSmv14pGE1Ojn1um8dsrjJAQyB",
+                      "http://cdnsocial.jiumaojia.com/Fh2e5mWKxp41f1OBgHmcoLe-u4NH"
+                  ]
+              },
+              {
+                  "post_id": 10392,
+                  "title": "",
+                  "content": "测试3",
+                  "content2": "a:2:{i:0;a:1:{s:7:\"content\";s:7:\"测试3\";}i:1;a:1:{s:5:\"image\";s:59:\"http://cdnsocial.jiumaojia.com/FoLqNFtheHBWDajKO4d3IxVzKJF0\";}}",
+                  "create_time": "23小时前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/FoLqNFtheHBWDajKO4d3IxVzKJF0"
+                  ]
+              },
+              {
+                  "post_id": 10391,
+                  "title": "",
+                  "content": "测试2",
+                  "content2": "a:2WD",//忽略本字段
+                  "create_time": "23小时前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": []
+              },
+              {
+                  "post_id": 10390,
+                  "title": "",
+                  "content": "测试",
+                  "content2": "a:2:{i:0;a:1:{s:7:\"content\";s:6:\"测试\";}i:1;a:1:{s:5:\"image\";s:59:\"http://cdnsocial.jiumaojia.com/FtOZ9WRPjz_v7UHiNG7jlABbr1OV\";}}",
+                  "create_time": "23小时前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": []
+              },
+              {
+                  "post_id": 10389,
+                  "title": "",
+                  "content": "测试",
+                  "content2": "a:2:{i:0;a:1:{s:7:\"content\";s:6:\"测试\";}i:1;a:1:{s:5:\"image\";s:59:\"http://cdnsocial.jiumaojia.com/FtOZ9WRPjz_v7UHiNG7jlABbr1OV\";}}",
+                  "create_time": "23小时前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": []
+              },
+              {
+                  "post_id": 10040,
+                  "title": "",
+                  "content": "哈哈啊哈哈啊哈啊哈啊",
+                  "content2": null,
+                  "create_time": "13天前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": []
+              },
+              {
+                  "post_id": 10037,
+                  "title": "",
+                  "content": "测试",
+                  "content2": null,
+                  "create_time": "13天前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/FtOZ9WRPjz_v7UHiNG7jlABbr1OV"
+                  ]
+              },
+              {
+                  "post_id": 10036,
+                  "title": "",
+                  "content": "测试",
+                  "content2": null,
+                  "create_time": "13天前",
+                  "account_id": 30093,
+                  "account_username": "程序员",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/FtOZ9WRPjz_v7UHiNG7jlABbr1OV"
+                  ]
+              }
+          ]
       }
   }
   ```
