@@ -79,7 +79,7 @@
                   "post_id": 10397,
                   "title": "",
                   "content": "测试电文",
-                  "content2": "a:3xSmv14pGE1Ojn1um8dsrjJAQyB\";}i:1;a:1:{s:7:\"content\";s:12:\"测试电文\";}i:2;a:1:{s:5:\"image\";s:59:\"http://cdnsocial.jiumaojia.com/Fh2e5mWKxp41f1OBgHmcoLe-u4NH\";}}",
+                  "content2": "a:2WD",//忽略本字段
                   "create_time": "20小时前",
                   "account_id": 30093,
                   "account_username": "程序员",
