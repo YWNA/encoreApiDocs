@@ -18,107 +18,134 @@
   {
       "code": 1,
       "data": {
-          "section_id": 1,
-          "name": "33Talk",
-          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
-          "description": "每日一发与众不同的日系文化观察",
-          "account_id": 1,
-          "is_follow": 0,
-          "follow_num": 1,
-          "post_data": [
+          "section_data": {
+              "section_id": 38,
+              "name": "石原里美",
+              "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-06-46358?imageView2/2/w/100",
+              "description": "1986年12月24日出生于日本东京，演员",
+              "account_id": 38,
+              "is_follow": 1,
+              "follow_num": 96110
+          },
+          "news_top_data": [],
+          "post_top_data": [
               {
-                  "post_id": 815,
-                  "section_id": 1,
-                  "content": "e",
-                  "create_time": "2017-06-08 09:55:10",
-                  "read_num": 0,
-                  "account_id": 2839,
-                  "account_username": "程序员",
-                  "account_avatar": "http://cdndevelop.jiumaojia.com/2017-06-14-09-33-49865?imageView2/2/w/100",
+                  "post_id": 10464,
+                  "title": "",
+                  "content": "哈哈哈",
+                  "create_time": "21小时前",
+                  "read_num": 4,
+                  "account_id": 29718,
+                  "account_username": "我是小仙女",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-08-09-11-40-50646?imageView2/2/w/100",
                   "comments_num": 0,
                   "praise_num": 0,
                   "if_praise": 0,
-                  "is_save": 0, //是否收藏
-                  "is_manager": 0, //是否是圈主
-                  "image": [
-                      "http://cdndevelop.jiumaojia.com/2017-06-08-09-54-58526",
-                      "http://cdndevelop.jiumaojia.com/2017-06-08-09-55-02160",
-                      "http://cdndevelop.jiumaojia.com/2017-06-08-09-55-06778"
-                  ]
+                  "is_save": 0,
+                  "image": [],
+                  "image_num": 0,
+                  "banner_image": "http://cdnsocial.jiumaojia.com/default_avatar.jpg"
               }
-          ],
-          "news_data": [
               {
-                  "news_id": 258,
-                  "title": "松山研一：“变色龙”的独特之道",
-                  "content": "&nbsp;&nbsp;&nbsp;&nbsp;气质是一种说不清",
-                  "category_id": 5,
-                  "create_time": "2017-04-13 16:38:38",
-                  "video_path": "",
-                  "video_image": "",
-                  "read_num": 175,
-                  "section_id": 1,
+                  "post_id": 10447,
+                  "title": "",
+                  "content": "又是这种剧情 苏打酥 十元美",
+                  "create_time": "1天前",
+                  "read_num": 1,
+                  "account_id": 60706,
+                  "account_username": "婧文",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-09-11-09-28-23872?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 1,
+                  "if_praise": 0,
+                  "is_save": 0,
                   "image": [
-                      "http://cdndevelop.jiumaojia.com/2017-04-21-11-45-49546?imageView2/2/w/600"
+                      "http://cdnsocial.jiumaojia.com/FskvCuu1TwWuxOsjVfEijPRgy1jt",
+                      "http://cdnsocial.jiumaojia.com/Ft3oHPFwNhKBMuIupsRhNtpAJnJ1",
+                      "http://cdnsocial.jiumaojia.com/FrHMA27tYkwH50LUEw1AtAyTCDyM"
                   ],
-                  "source_image": "http://om4mfzope.bkt.clouddn.com/5_3.png",
-                  "source_id": 5,
-                  "account_data": {
-                      "uid": 1,
-                      "username": "33Talk",
-                      "phone": 1,
-                      "sex": 2,
-                      "address": "",
-                      "register_time": "2017-03-24 15:16:35",
-                      "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100",
-                      "sinature": "AAAAB",
-                      "is_member": 0,
-                      "is_manager": 0
-                  },
-                  "type": "image",
-                  "comments_num": 1,
-                  "praise_num": 3,
-                  "if_praise": 0
+                  "image_num": 3,
+                  "banner_image": "http://cdnsocial.jiumaojia.com/FskvCuu1TwWuxOsjVfEijPRgy1jt"
+              },
+              {
+                  "post_id": 10429,
+                  "title": "",
+                  "content": "自己选择，错了也要硬着头皮继续。\n明天开始我会努力让自己不再想起你，当然未来的日子里任何的意外也将与你无关了。\n明天去领证",
+                  "create_time": "2天前",
+                  "read_num": 4,
+                  "account_id": 155632,
+                  "account_username": "莫小优",
+                  "account_avatar": "http://om4mfzope.bkt.clouddn.com/default_avatar.jpg?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "is_save": 0,
+                  "image": [],
+                  "image_num": 0,
+                  "banner_image": "http://cdnsocial.jiumaojia.com/default_avatar.jpg"
+              },
+              {
+                  "post_id": 10400,
+                  "title": "",
+                  "content": "225596; ; ",
+                  "create_time": "3天前",
+                  "read_num": 10,
+                  "account_id": 146536,
+                  "account_username": "我微笑乛释怀伱給の伤",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/1504166673563146536?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "is_save": 0,
+                  "image": [
+                      "http://cdnsocial.jiumaojia.com/1505196066808146536",
+                      "http://cdnsocial.jiumaojia.com/1505196066828146536"
+                  ],
+                  "image_num": 2,
+                  "banner_image": "http://cdnsocial.jiumaojia.com/1505196066808146536"
               }
           ],
-          "weibo_data": [
+          "news_data": [],
+          "newsr_data": [],
+          "post_data": [
               {
-                  "weibo_name": "山下智久资讯台",
-                  "weibo_path": "http://weibo.com/u/2132113514",
-                  "weibo_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-06-26-17-45-29795?imageView2/2/w/100"
-              },
-              {
-                  "weibo_name": "Baidu山下智久吧 ",
-                  "weibo_path": "http://weibo.com/baiduyamap?profile_ftype=1&amp;is_all=1#_0",
-                  "weibo_avatar": "?imageView2/2/w/100"
-              },
-              {
-                  "weibo_name": "芹菜香菜各种讨厌",
-                  "weibo_path": "http://weibo.com/0409tomohisa?profile_ftype=1&amp;is_all=1#_0",
-                  "weibo_avatar": "?imageView2/2/w/100"
-              },
-              {
-                  "weibo_name": "Emma521_",
-                  "weibo_path": "http://weibo.com/101198549?profile_ftype=1&amp;is_all=1#_0",
-                  "weibo_avatar": "?imageView2/2/w/100"
-              },
-              {
-                  "weibo_name": "Baidu山下智久吧",
-                  "weibo_path": "http://weibo.com/baiduyamap",
-                  "weibo_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-06-26-17-48-10192?imageView2/2/w/100"
-              },
-              {
-                  "weibo_name": "千叶的海论坛",
-                  "weibo_path": "http://weibo.com/u/2679782074?profile_ftype=1&amp;is_all=1#_0",
-                  "weibo_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-06-26-17-48-10178?imageView2/2/w/100"
-              },
-              {
-                  "weibo_name": "山下智久的恋久轩",
-                  "weibo_path": "http://weibo.com/u/1932986501?profile_ftype=1&amp;is_all=1#_0",
-                  "weibo_avatar": "http://onz6odc5j.bkt.clouddn.com/2017-06-26-17-48-10994?imageView2/2/w/100"
+                  "post_id": 10464,
+                  "title": "",
+                  "content": "哈哈哈",
+                  "create_time": "21小时前",
+                  "read_num": 4,
+                  "account_id": 29718,
+                  "account_username": "我是小仙女",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-08-09-11-40-50646?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "is_save": 0,
+                  "image": [],
+                  "image_num": 0,
+                  "banner_image": "http://cdnsocial.jiumaojia.com/default_avatar.jpg",
+                  "is_manager": 0
               }
-          ]
-
+              {
+                  "post_id": 10393,
+                  "title": "",
+                  "content": "来了来了",
+                  "create_time": "4天前",
+                  "read_num": 1,
+                  "account_id": 155093,
+                  "account_username": "爱仔俊俊毛",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-09-12-10-14-48737?imageView2/2/w/100",
+                  "comments_num": 0,
+                  "praise_num": 0,
+                  "if_praise": 0,
+                  "is_save": 0,
+                  "image": [],
+                  "image_num": 0,
+                  "banner_image": "http://cdnsocial.jiumaojia.com/default_avatar.jpg",
+                  "is_manager": 0
+              }
+          ],
+          "api_description": "iOS端忽略news_top_data;Android端将news_top_data修改使用post_top_data字段"
       }
   }
   ```
