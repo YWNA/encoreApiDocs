@@ -26,8 +26,7 @@
               "account_id": 38,
               "is_follow": 1,
               "follow_num": 96110
-          },
-          "news_top_data": [],
+          },   
           "post_top_data": [
               {
                   "post_id": 10464,
@@ -45,64 +44,6 @@
                   "image": [],
                   "image_num": 0,
                   "banner_image": "http://cdnsocial.jiumaojia.com/default_avatar.jpg"
-              }
-              {
-                  "post_id": 10447,
-                  "title": "",
-                  "content": "又是这种剧情 苏打酥 十元美",
-                  "create_time": "1天前",
-                  "read_num": 1,
-                  "account_id": 60706,
-                  "account_username": "婧文",
-                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-09-11-09-28-23872?imageView2/2/w/100",
-                  "comments_num": 0,
-                  "praise_num": 1,
-                  "if_praise": 0,
-                  "is_save": 0,
-                  "image": [
-                      "http://cdnsocial.jiumaojia.com/FskvCuu1TwWuxOsjVfEijPRgy1jt",
-                      "http://cdnsocial.jiumaojia.com/Ft3oHPFwNhKBMuIupsRhNtpAJnJ1",
-                      "http://cdnsocial.jiumaojia.com/FrHMA27tYkwH50LUEw1AtAyTCDyM"
-                  ],
-                  "image_num": 3,
-                  "banner_image": "http://cdnsocial.jiumaojia.com/FskvCuu1TwWuxOsjVfEijPRgy1jt"
-              },
-              {
-                  "post_id": 10429,
-                  "title": "",
-                  "content": "自己选择，错了也要硬着头皮继续。\n明天开始我会努力让自己不再想起你，当然未来的日子里任何的意外也将与你无关了。\n明天去领证",
-                  "create_time": "2天前",
-                  "read_num": 4,
-                  "account_id": 155632,
-                  "account_username": "莫小优",
-                  "account_avatar": "http://om4mfzope.bkt.clouddn.com/default_avatar.jpg?imageView2/2/w/100",
-                  "comments_num": 0,
-                  "praise_num": 0,
-                  "if_praise": 0,
-                  "is_save": 0,
-                  "image": [],
-                  "image_num": 0,
-                  "banner_image": "http://cdnsocial.jiumaojia.com/default_avatar.jpg"
-              },
-              {
-                  "post_id": 10400,
-                  "title": "",
-                  "content": "225596; ; ",
-                  "create_time": "3天前",
-                  "read_num": 10,
-                  "account_id": 146536,
-                  "account_username": "我微笑乛释怀伱給の伤",
-                  "account_avatar": "http://cdnsocial.jiumaojia.com/1504166673563146536?imageView2/2/w/100",
-                  "comments_num": 0,
-                  "praise_num": 0,
-                  "if_praise": 0,
-                  "is_save": 0,
-                  "image": [
-                      "http://cdnsocial.jiumaojia.com/1505196066808146536",
-                      "http://cdnsocial.jiumaojia.com/1505196066828146536"
-                  ],
-                  "image_num": 2,
-                  "banner_image": "http://cdnsocial.jiumaojia.com/1505196066808146536"
               }
           ],
           "news_data": [],
