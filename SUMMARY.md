@@ -66,7 +66,8 @@
   * [弹幕历史](dan-mu/dan-mu-li-shi.md)
 * [搜索](zi-yuan-qu.md)
   * [搜索-VI142](zi-yuan-qu/sou-7d22-vi142.md)
-    * [综合all](zi-yuan-qu/sou-7d22-vi142/zong-he-all.md)
+  * [默认首页hot](zi-yuan-qu/mo-ren-shou-ye-hot.md)
+  * [综合all](zi-yuan-qu/sou-7d22-vi142/zong-he-all.md)
 * [资源区](zi-yuan.md)
 
 ## 认证
