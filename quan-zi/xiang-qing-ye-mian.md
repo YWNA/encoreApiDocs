@@ -8,7 +8,7 @@
 
   * page：页码（第一页的页码为1）
 
-  * type：news\(速报资讯\)或者post\(动态帖子\)
+  * type：news\(速报资讯\)或者post\(动态帖子\)或者newsr\(资源\)
 
   * sort：0为按发布，1为回复
 
@@ -18,6 +18,14 @@
   {
       "code": 1,
       "data": {
+      "section_id": 38,
+          "name": "石原里美",
+          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-11-06-46358?imageView2/2/w/100",
+          "description": "1986年12月24日出生于日本东京，演员",
+          "account_id": 38,
+          "is_follow": 1,
+          "follow_num": 19285,
+          "post_num": 154,
           "section_data": {
               "section_id": 38,
               "name": "石原里美",
