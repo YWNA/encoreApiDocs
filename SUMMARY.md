@@ -27,6 +27,7 @@
     * [速报（更多）](shou-ye/su-bao/su-bao-ff08-geng-duo-ff09.md)
     * [扩列（更多）](shou-ye/su-bao/kuo-lie-ff08-geng-duo-ff09.md)
     * [精选贴（更多）](shou-ye/su-bao/jing-xuan-tie-ff08-geng-duo-ff09.md)
+    * [换一换](shou-ye/su-bao/mei-ge-lei-bie-xia-shu-ju-ff0c-huan-yi-huan.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
   * [TV剧集速报](shou-ye/tvju-ji-su-bao.md)
