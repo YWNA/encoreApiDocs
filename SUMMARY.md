@@ -49,7 +49,7 @@
   * [用户信息](rong-yun-liao-tian/yong-hu-xin-xi.md)
   * [创建群组](rong-yun-liao-tian/chuang-jian-qun-zu.md)
   * [创建弹幕组](rong-yun-liao-tian/chuang-jian-dan-mu-zu.md)
-* [发布动态](fa-bu-dong-tai.md)
+* [发布动态\(周边，问答，扩列\)](fa-bu-dong-tai.md)
 * [收藏](shou-cang.md)
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
   * [添加收藏](shou-cang.md)
