@@ -10,41 +10,45 @@
   {
       "code": 1,
       "data": {
-          "uid": 1644,
-          "username": "Kerotou_库洛",
-          "phone": "13700648782",
-          "sex": 0,
+          "uid": 30093,
+          "username": "程序员",
+          "phone": "18142005882",
+          "country": "",
+          "pro": "",
+          "area": "",
+          "sex": 2,
           "address": "",
-          "register_time": "2017-05-26 18:03:46",
-          "avatar": "http://om4mfzope.bkt.clouddn.com/2017-05-26-18-04-16868?imageView2/2/w/100",
-          "sinature": "",
-          "post_num": 4,
-          "fans_num": 0,
-          "follow_num": 0,
-          "post_data": [
+          "register_time": "2017-06-12 17:19:26",
+          "avatar": "http://cdnsocial.jiumaojia.com/150416418310230093",
+          "sinature": "encore",
+          "is_member": 0,
+          "label": 0,
+          "source_avatar": "http://cdnsocial.jiumaojia.com/150416418310230093",
+          "is_manager": 0,
+          "post_num": 0,
+          "fans_num": 2,
+          "follow_num": 4,
+          "post_data": [],
+          "follow_account_data": [
               {
-                  "post_image_num": 1, //帖子照片数量
-                  "post_id": 304, //帖子编号
-                  "image_path": "http://cdnsocial.jiumaojia.com/2017-05-26-18-11-53599",
-                  "account_id": 1644
+                  "account_id": 29718,
+                  "account_username": "我是小仙女",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-08-09-11-40-50646?imageView2/2/w/100"
               },
               {
-                  "post_image_num": 1,
-                  "post_id": 305,
-                  "image_path": "http://cdnsocial.jiumaojia.com/2017-05-26-18-11-53599",
-                  "account_id": 1644
+                  "account_id": 558,
+                  "account_username": "藤真岚岚",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-06-28-20-21-09301?imageView2/2/w/100"
               },
               {
-                  "post_image_num": 1,
-                  "post_id": 306,
-                  "image_path": "http://cdnsocial.jiumaojia.com/2017-05-26-18-11-53599",
-                  "account_id": 1644
+                  "account_id": 35464,
+                  "account_username": "魚口",
+                  "account_avatar": "http://cdnsocial.jiumaojia.com/2017-07-19-16-27-06664?imageView2/2/w/100"
               },
               {
-                  "post_image_num": 1,
-                  "post_id": 307,
-                  "image_path": "http://cdnsocial.jiumaojia.com/2017-05-26-18-11-53599",
-                  "account_id": 1644
+                  "account_id": 1,
+                  "account_username": "33Talk",
+                  "account_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-24-15-12-28840?imageView2/2/w/100"
               }
           ]
       }
