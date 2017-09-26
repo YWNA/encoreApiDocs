@@ -32,6 +32,7 @@
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
   * [TV剧集速报](shou-ye/tvju-ji-su-bao.md)
+  * [速报反馈（视频资源）](shou-ye/su-bao-fan-kui-ff08-shi-pin-zi-yuan-ff09.md)
 * [栏目-圈子](quan-zi.md)
   * [圈子首页](quan-zi/shou-ye.md)
   * [圈子详情](quan-zi/xiang-qing-ye-mian.md)
