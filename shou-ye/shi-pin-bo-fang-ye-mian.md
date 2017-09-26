@@ -46,14 +46,14 @@
             "comments_num": 98,
             "douban_score": "9.8",
             "douban_comments_content": "的确是今年最佳",
-            "actor_data": [
+            "actor_data": [//演员
                 {
                     "section_id": 6,
                     "section_name": "岚",
                     "section_avatar": "http://om4mfzope.bkt.clouddn.com/2017-03-27-15-03-04482?imageView2/2/w/100"
                 }
             ],
-            "wonderful_comments_data": [
+            "wonderful_comments_data": [//精彩剧评
                 {
                     "title": "绫濑遥主演的NTV新剧「太太请小心轻放」本編映像公开！",
                     "account_id": 33546,
@@ -62,7 +62,7 @@
                 }
             ],
             "wonderful_comments_num": 10,
-            "recommended_video_data": [
+            "recommended_video_data": [//推荐视频
                 {
                     "news_id": 28030,
                     "title": "花君 03",
@@ -70,7 +70,7 @@
                     "read_num": 6990
                 }
             ],
-            "hot_comments_data": [
+            "hot_comments_data": [//热门评论
                 {
                     "comment_id": 9361,
                     "content": "表白卡咩",
