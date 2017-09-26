@@ -30,6 +30,7 @@
     * [换一换](shou-ye/su-bao/mei-ge-lei-bie-xia-shu-ju-ff0c-huan-yi-huan.md)
     * [侧边栏](shou-ye/su-bao/ce-bian-lan.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
+  * [视频播放页面](shou-ye/shi-pin-bo-fang-ye-mian.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
   * [TV剧集速报](shou-ye/tvju-ji-su-bao.md)
   * [速报反馈（视频资源）](shou-ye/su-bao-fan-kui-ff08-shi-pin-zi-yuan-ff09.md)
