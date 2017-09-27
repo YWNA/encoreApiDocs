@@ -68,7 +68,7 @@
                     "news_id": 28030,
                     "title": "花君 03",
                     "video_image": "http://cdnsocial.jiumaojia.com/2017-09-20-11-13-13267",
-                    "read_num": 6990
+                    "read_num": 6990//播放次数
                 }
             ],
             "hot_comments_data": [//热门评论
