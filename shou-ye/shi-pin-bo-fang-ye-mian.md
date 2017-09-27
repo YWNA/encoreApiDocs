@@ -41,7 +41,7 @@
                     "title": "最新番「下北泽」03 DIE HARD 人生最糟的一天 在线观看！",
                     "video_path": "http://aliyunvideo.jiumaojia.com/e79a295f45ea49c6a73efa4d6fc7dfd3/7b187dd7cdb3401b9fdae38e9cc76c7a-5287d2089db37e62345123a1be272f8b.mp4",
                     "video_image": "http://cdnsocial.jiumaojia.com/2017-08-07-10-05-45506",
-                    "news_tv_sort": 1,
+                    "news_tv_sort": 1,//剧集集数
                     "num": 5
                 }
             ],
