@@ -46,7 +46,7 @@
   * [动态详情](quan-zi/dong-tai-xiang-qing.md)
   * [动态删除](dong-tai-shan-chu.md)
   * [动态举报](dong-tai-ju-bao.md)
-  * [问答](quan-zi/wen-da.md)
+  * [问答详情](quan-zi/wen-da.md)
 * [融云聊天](rong-yun-liao-tian.md)
   * [获取token](rong-yun-liao-tian/huo-qu-token.md)
   * [用户是否在线](rong-yun-liao-tian/yong-hu-shi-fou-zai-xian.md)
