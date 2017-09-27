@@ -15,7 +15,7 @@
         "code": 1,
         "data": {
             "news_id": 27722,
-            "read_num": 364117,
+            "read_num": 364117,//播放数量
             "is_tv": 0,
             "true_read_num": 6384,
             "title": "P与JK",
@@ -43,9 +43,10 @@
                 }
             ],
             "praise_num": 38,
-            "comments_num": 98,
-            "douban_score": "9.8",
-            "douban_comments_content": "的确是今年最佳",
+            "comments_num": 98,//评论数量
+            "tanmu_num": 98,//弹幕数量
+            "douban_score": "9.8",//豆瓣评分
+            "douban_comments_content": "的确是今年最佳",//豆瓣评价
             "actor_data": [//演员
                 {
                     "section_id": 6,
@@ -104,7 +105,7 @@
                 "is_manager": 1
             },
             "type": "video",
-            "is_store": 0,
+            "is_store": 0,//是否收藏
             "role_data": [
                 {
                     "role_type": 1,
@@ -113,8 +114,8 @@
                     "api_description": "role_type=1代表圈主,2代表机构,3代表自媒体,4代表明星;本接口若提供section_page字段,则仅返回关注的圈子数据（每页8条）"
                 }
             ],
-            "if_praise": 0,
-            "comments": [
+            "if_praise": 0,//是否点赞
+            "comments": [//最新评论
                 {
                     "comment_id": 9361,
                     "content": "表白卡咩",
