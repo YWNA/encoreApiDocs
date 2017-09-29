@@ -29,6 +29,7 @@
     * [精选贴（更多）](shou-ye/su-bao/jing-xuan-tie-ff08-geng-duo-ff09.md)
     * [换一换](shou-ye/su-bao/mei-ge-lei-bie-xia-shu-ju-ff0c-huan-yi-huan.md)
     * [侧边栏](shou-ye/su-bao/ce-bian-lan.md)
+    * [追番\(更多\)](shou-ye/su-bao/zhui-756a28-geng-591a29.md)
   * [速报详情](shou-ye/su-bao-xiang-qing.md)
   * [视频播放页面](shou-ye/shi-pin-bo-fang-ye-mian.md)
   * [全部评论](shou-ye/quan-bu-ping-lun.md)
