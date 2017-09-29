@@ -8,6 +8,8 @@
 
   * feedback\_content：反馈的内容
 
+  * feedback\_type：反馈信息编号
+
 * 接口返回：
 
   ```json
