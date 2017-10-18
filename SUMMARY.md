@@ -57,7 +57,7 @@
 * [发布动态\(周边，问答，扩列\)](fa-bu-dong-tai.md)
 * [收藏](shou-cang.md)
   * [收藏列表](shou-cang/shou-cang-lie-biao.md)
-  * [添加收藏](shou-cang.md)
+  * [取消收藏](shou-cang.md)
 * [赞](dian-zan.md)
   * [收到动态的赞列表](dian-zan/shou-dao-de-zan-lie-biao.md)
   * [取消多个动态的赞](dian-zan/qu-xiao-duo-ge-dong-tai-de-zan.md)
